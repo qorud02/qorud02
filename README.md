@@ -1,4 +1,4 @@
-# F&B operator & AI-assisted builder
+# F&B operator & field validation partner
 
 I build practical tools for F&B operations, business workflows, and public-data quality. My background is in operating businesses and testing ideas in the field; I use AI-assisted development to turn concrete problems into reproducible tools.
 
@@ -21,3 +21,10 @@ Contributed missing-timestamp input validation to the public [`DOI-USGS/dataretr
 F&B brands and retail operations, field validation of business tools, and reliable public-data workflows.
 
 F&B 운영·브랜드·현장 검증 경험을 바탕으로 실용 도구를 만듭니다. 공개 기여는 실제 PR과 유지관리자 검토 기록으로 확인할 수 있습니다.
+
+## Selected projects
+
+- [F&B Menu Margin Kit](https://github.com/qorud02/fnb-margin-kit) — validates menu costs and sales mix, then ranks contribution before fixed costs. Includes Korean CSV examples, decimal calculations, and tests.
+- [Public Data Sentinel](https://github.com/qorud02/public-data-sentinel) — checks CSV/JSON extracts for missing values, invalid dates, numeric bounds, and duplicate keys, with readable reports and tests.
+
+[UNICUP Company](https://www.unicupcompany.com)
