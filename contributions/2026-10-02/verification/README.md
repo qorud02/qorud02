@@ -1,6 +1,8 @@
 # Verification record
 
-Checks below were executed locally on 2026-10-02. Passing targeted checks do not establish full cross-platform CI success. FinanceDataReader [PR #291](https://github.com/FinanceData/FinanceDataReader/pull/291) is the only submitted new upstream PR. ETLHelper has a public prepared branch but no source PR; urllib3 and yargs have publicly archived patches but no upstream PRs. None of these upstream changes is claimed as merged. Public Data Sentinel maintenance was published to the user's default branch.
+Checks below were executed locally on 2026-10-02. Passing targeted checks do not establish full cross-platform CI success. FinanceDataReader [PR #291](https://github.com/FinanceData/FinanceDataReader/pull/291) is the only submitted new upstream PR. ETLHelper has a public prepared branch but no source PR; neither publicly archived urllib3/yargs patch was submitted by this session. None of these upstream changes is claimed as merged. Public Data Sentinel maintenance was published to the user's default branch.
+
+Later status update: user OAuth approval completed, but real ETLHelper source-PR and yargs-fork retries still returned HTTP 403. An independent `/user` control request using invalid credentials still returned HTTP 200, confirming authentication injection by the managed route; effective requests retained app authentication. Approval therefore did not resolve submission permissions. No tests were rerun for this status update.
 
 ## Patch identity and application
 
@@ -43,6 +45,8 @@ The [published branch](https://github.com/qorud02/etlhelper/tree/docs-branching-
 ## urllib3: NaN timeout validation
 
 Runtime: Python 3.12.14 on Linux.
+
+After the original patch preparation and searches, `mikamikasuki` opened overlapping [PR #5295](https://github.com/urllib3/urllib3/pull/5295) at 2026-10-02 11:43:49 UTC. That external PR is open. Preserve this patch as historical work; do not submit a duplicate, as prohibited by urllib3's contribution rules. The local test evidence below is unchanged.
 
 - Regression proof against untouched upstream source: **4 failed, 601 deselected**, all because NaN did not raise `ValueError`.
 - Complete `test/test_util.py` on the patch: **599 passed, 6 skipped**.

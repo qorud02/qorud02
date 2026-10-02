@@ -6,10 +6,12 @@ One upstream PR was submitted, three additional upstream changes are prepared, a
 | --- | --- | --- | --- |
 | [FinanceDataReader #272](patches/fdr-yahoo-duplicate-dates.patch) | Keep the final complete Yahoo quote row per normalized daily date; prevent duplicate-index failures during multi-symbol alignment. | [PR #291 open](https://github.com/FinanceData/FinanceDataReader/pull/291) | `addcbb7e887f0db6176a87d323de5de28357b5f4` |
 | [ETLHelper #232](patches/etlhelper-232.patch) | Add a runnable SQLite branching pipeline recipe with empty-branch and empty-input tests. | [Public branch](https://github.com/qorud02/etlhelper/tree/docs-branching-pipeline-recipe); PR not submitted | `8a2b413585d892443037679acf4559d4e4d2583e` |
-| [urllib3 #5294](patches/urllib3-5294.patch) | Reject NaN connect/read/total timeouts during construction; add four regression cases and a changelog fragment. | Prepared; not submitted | `796d200d3070ead69ec3a5d848fecf52a2249b59` |
+| [urllib3 #5294](patches/urllib3-5294.patch) | Reject NaN connect/read/total timeouts during construction; add four regression cases and a changelog fragment. | Archived; overlaps external [PR #5295](https://github.com/urllib3/urllib3/pull/5295); do not submit a duplicate | `796d200d3070ead69ec3a5d848fecf52a2249b59` |
 | [yargs dotted config documentation](patches/yargs-strict-dotted-config.patch) | Explain literal dotted configuration keys with `dot-notation: false` in strict mode; document a working example. | Prepared; not submitted | `10f1dda5991fba2cea6a4b4dc6bd90da6e5292b2` |
 
-FinanceDataReader #291 is the only submitted new upstream PR. ETLHelper's source PR attempts returned HTTP 403; a [prefilled manual submission link](verification/etlhelper-manual-pr.md) is available. New-fork creation was denied for urllib3 and yargs; their patches are archived here and have no upstream pull request.
+FinanceDataReader #291 is the only submitted new upstream PR. ETLHelper's source PR attempts returned HTTP 403; a [prefilled manual submission link](verification/etlhelper-manual-pr.md) is available. New-fork creation was denied for urllib3 and yargs; neither archived patch was submitted by this session.
+
+Later user OAuth approval completed, but ETLHelper source-PR and yargs-fork retries still returned HTTP 403 because the managed route retained app authentication. Submission permissions remain unresolved. After this archive's original preparation, `mikamikasuki` opened overlapping urllib3 [PR #5295](https://github.com/urllib3/urllib3/pull/5295) at 11:43:49 UTC on 2026-10-02; upstream rules prohibit submitting a duplicate.
 
 [Public Data Sentinel maintenance](verification/public-data-sentinel-maintenance.md) is complete on its default branch: malformed array/object contract types now produce a clean CLI error with exit status 2. All 27 unittest tests passed.
 
