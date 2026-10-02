@@ -14,7 +14,7 @@ Contributed missing-timestamp input validation to the public [`DOI-USGS/dataretr
 
 [PR #291 — Keep the final Yahoo quote for each daily date](https://github.com/FinanceData/FinanceDataReader/pull/291) removes duplicate daily dates that can make multi-symbol requests fail. Five offline regression tests pass; upstream review is pending.
 
-The [October 2 contribution record](https://github.com/qorud02/qorud02/tree/main/contributions/2026-10-02) contains reproducible patches and verification notes for this PR and prepared urllib3 and yargs changes.
+The [October 2 contribution record](https://github.com/qorud02/qorud02/tree/main/contributions/2026-10-02) contains tested patches, public branches, and verification notes from this session.
 
 ## What I build
 
