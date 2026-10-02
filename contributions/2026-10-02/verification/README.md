@@ -1,6 +1,6 @@
 # Verification record
 
-Checks below were executed locally on 2026-10-02. Passing targeted checks do not establish full cross-platform CI success. FinanceDataReader [PR #291](https://github.com/FinanceData/FinanceDataReader/pull/291) is the only submitted new upstream PR. ETLHelper has a public prepared branch but no source PR; urllib3 and yargs remain local. None of these upstream changes is claimed as merged. Public Data Sentinel maintenance was published to the user's default branch.
+Checks below were executed locally on 2026-10-02. Passing targeted checks do not establish full cross-platform CI success. FinanceDataReader [PR #291](https://github.com/FinanceData/FinanceDataReader/pull/291) is the only submitted new upstream PR. ETLHelper has a public prepared branch but no source PR; urllib3 and yargs have publicly archived patches but no upstream PRs. None of these upstream changes is claimed as merged. Public Data Sentinel maintenance was published to the user's default branch.
 
 ## Patch identity and application
 
