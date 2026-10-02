@@ -1,0 +1,54 @@
+From 6d573405d626a52994d388f67518282643563e55 Mon Sep 17 00:00:00 2001
+From: Kyunghan Bae <74843284+qorud02@users.noreply.github.com>
+Date: Fri, 2 Oct 2026 10:46:41 +0000
+Subject: [PATCH] docs: explain dotted config keys with strict mode
+
+---
+ docs/api.md | 31 +++++++++++++++++++++++++++++++
+ 1 file changed, 31 insertions(+)
+
+diff --git a/docs/api.md b/docs/api.md
+index bbfc355..9a27a13 100644
+--- a/docs/api.md
++++ b/docs/api.md
+@@ -503,6 +503,37 @@ $ node test.js
+   '$0': 'test.js' }
+ ```
+ 
++### Dotted option names with strict mode
++
++When using `.strict()` with dotted option names, disable `dot-notation` and
++use literal dotted keys in the configuration:
++
++```js
++import yargs from 'yargs';
++const argv = yargs([])
++  .parserConfiguration({'dot-notation': false})
++  .option('auth.username', {type: 'string'})
++  .config({'auth.username': 'test'})
++  .strict()
++  .parse();
++
++console.log(argv['auth.username']); // 'test'
++```
++
++The same key form can be used in a JSON config file:
++
++```json
++{
++  "auth.username": "test"
++}
++```
++
++With the default `dot-notation` setting, both nested configuration objects
++and dotted keys produce a nested `auth` object, which strict mode can report
++as `Unknown argument: auth`. Disabling `dot-notation` keeps the parsed keys
++flat, so access the value using `argv['auth.username']` rather than
++`argv.auth.username`.
++
+ ### `extends` Keyword
+ 
+ `config` and `pkgConf` can provide the `extends` keyword to
+-- 
+2.52.0
+

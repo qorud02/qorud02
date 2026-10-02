@@ -1,0 +1,75 @@
+From 95adb5b644604342df629577db5089403574ca5c Mon Sep 17 00:00:00 2001
+From: Kyunghan Bae <74843284+qorud02@users.noreply.github.com>
+Date: Fri, 2 Oct 2026 10:46:40 +0000
+Subject: [PATCH] Reject NaN timeout values during construction
+
+---
+ changelog/5294.bugfix.rst   | 1 +
+ src/urllib3/util/timeout.py | 9 +++++++--
+ test/test_util.py           | 9 +++++++++
+ 3 files changed, 17 insertions(+), 2 deletions(-)
+ create mode 100644 changelog/5294.bugfix.rst
+
+diff --git a/changelog/5294.bugfix.rst b/changelog/5294.bugfix.rst
+new file mode 100644
+index 0000000..80c775b
+--- /dev/null
++++ b/changelog/5294.bugfix.rst
+@@ -0,0 +1 @@
++Rejected NaN values for connect, read, and total timeouts when constructing ``Timeout``.
+diff --git a/src/urllib3/util/timeout.py b/src/urllib3/util/timeout.py
+index 4bb1be1..248ea3a 100644
+--- a/src/urllib3/util/timeout.py
++++ b/src/urllib3/util/timeout.py
+@@ -1,5 +1,6 @@
+ from __future__ import annotations
+ 
++import math
+ import time
+ import typing
+ from enum import Enum
+@@ -135,8 +136,8 @@ class Timeout:
+         :param name: The name of the timeout attribute to validate. This is
+             used to specify in error messages.
+         :return: The validated and casted version of the given value.
+-        :raises ValueError: If it is a numeric value less than or equal to
+-            zero, or the type is not an integer, float, or None.
++        :raises ValueError: If it is NaN, a numeric value less than or equal
++            to zero, or the type is not an integer, float, or None.
+         """
+         if value is None or value is _DEFAULT_TIMEOUT:
+             return value
+@@ -155,6 +156,10 @@ class Timeout:
+             ) from None
+ 
+         try:
++            if math.isnan(value):
++                raise ValueError(
++                    f"Timeout value {name} was {value}, but it must not be NaN."
++                )
+             if value <= 0:
+                 raise ValueError(
+                     "Attempted to set %s timeout to %s, but the "
+diff --git a/test/test_util.py b/test/test_util.py
+index db9f85f..9d0bd2b 100644
+--- a/test/test_util.py
++++ b/test/test_util.py
+@@ -966,6 +966,15 @@ class TestUtil:
+         with pytest.raises(ValueError, match=message):
+             Timeout(**kwargs)
+ 
++    @pytest.mark.parametrize("name", ["connect", "read", "total"])
++    def test_nan_timeout(self, name: str) -> None:
++        with pytest.raises(ValueError, match=f"Timeout value {name} was nan"):
++            Timeout(**{name: float("nan")})
++
++    def test_nan_timeout_from_float(self) -> None:
++        with pytest.raises(ValueError, match="Timeout value connect was nan"):
++            Timeout.from_float(float("nan"))
++
+     @patch("time.monotonic")
+     def test_timeout(self, time_monotonic: MagicMock) -> None:
+         timeout = Timeout(total=3)
+-- 
+2.52.0
+
