@@ -36,6 +36,8 @@ cd json-repr-probe
 python -m json_repr_probe --input examples/input.json -- python -m examples.stable_cli
 ~~~
 
+[Container package](https://github.com/qorud02/json-repr-probe/pkgs/container/json-repr-probe) · [Installable wheel](https://github.com/qorud02/json-repr-probe/releases/tag/v0.1.0) · [Development board](https://github.com/users/qorud02/projects/1)
+
 ### [F&B Menu Margin Kit](https://github.com/qorud02/fnb-margin-kit)
 
 **메뉴 원가와 판매 구성을 공헌이익으로 연결하는 Python CLI.** Ranks menu contribution after ingredients, packaging, and platform fees using Decimal arithmetic.
