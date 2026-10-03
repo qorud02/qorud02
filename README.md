@@ -1,10 +1,26 @@
 # Kyunghan Bae
 
+Contact: [ceo@unicupcompany.com](mailto:ceo@unicupcompany.com)
+
 UNICUP에서 F&B 운영을 맡으며, Python으로 데이터 검사·계산·오류 재현 도구를 만듭니다. 공개 프로젝트에는 재현 예제와 회귀 테스트를 갖춘 수정으로 기여합니다.
 
 I work in F&B operations at [UNICUP](https://www.unicupcompany.com). I build Python tools for menu costs and data checks, and contribute reproducible fixes to open-source projects.
 
 ## Selected projects
+
+### [JUnit Evidence Gate](https://github.com/qorud02/junit-evidence-gate)
+
+**JUnit 보고서의 테스트 수·중복·건너뜀을 검사하는 Python CLI.** Checks testcase records before a CI report is accepted: empty execution, contradictory totals, duplicate identities and skip budgets.
+
+- Counts nested suites once and applies a minimum execution count and optional skip limits
+- Rejects unsafe XML and displays report names literally in JSON or Markdown
+- [Seven runnable fixtures](https://github.com/qorud02/junit-evidence-gate/tree/main/examples) · [62 tests, installation and CLI checks on Windows & Linux](https://github.com/qorud02/junit-evidence-gate/actions/runs/37130700719)
+
+~~~sh
+git clone https://github.com/qorud02/junit-evidence-gate.git
+cd junit-evidence-gate
+python -m junit_evidence_gate examples/contradictory.xml --format markdown
+~~~
 
 ### [JSON Repr Probe](https://github.com/qorud02/json-repr-probe)
 
@@ -36,7 +52,7 @@ python -m json_repr_probe --input examples/input.json -- python -m examples.stab
 - A synthetic invalid-data example finds **5 issues in 3 records**
 - [Passing JSON report](https://github.com/qorud02/public-data-sentinel/blob/main/examples/valid-report.json) · [Failing Markdown report](https://github.com/qorud02/public-data-sentinel/blob/main/examples/invalid-report.md) · [Windows & Linux tests](https://github.com/qorud02/public-data-sentinel/actions/workflows/tests.yml)
 
-All three tools require Python 3.10+ and have no runtime dependencies. Installation and examples are in each repository.
+All four tools require Python 3.10+ and have no runtime dependencies. Installation and examples are in each repository.
 
 ## Merged upstream fixes
 
@@ -48,6 +64,7 @@ Five fixes accepted into three external projects:
 
 ## Contribute
 
+- JUnit Evidence Gate: [Contributor guide](https://github.com/qorud02/junit-evidence-gate/blob/main/CONTRIBUTING.md)
 - JSON Repr Probe: [Contributor guide](https://github.com/qorud02/json-repr-probe/blob/main/CONTRIBUTING.md)
 - Public Data Sentinel: [TSV input support #2](https://github.com/qorud02/public-data-sentinel/issues/2) · [Contributor guide](https://github.com/qorud02/public-data-sentinel/blob/main/CONTRIBUTING.md)
 - F&B Menu Margin Kit: [매장·배달 비교 예제 #2](https://github.com/qorud02/fnb-margin-kit/issues/2) · [Contributor guide](https://github.com/qorud02/fnb-margin-kit/blob/main/CONTRIBUTING.md)
