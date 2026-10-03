@@ -22,7 +22,7 @@ I work in F&B operations at [UNICUP Company](https://www.unicupcompany.com) and 
 
 - **[USGS dataretrieval-python #431](https://github.com/DOI-USGS/dataretrieval-python/pull/431)** — Reject missing nearest-observation timestamps before querying water data. The maintainer reviewed and extended the validation; merged October 1, 2026.
 - **[kiwipiepy #236](https://github.com/bab2min/kiwipiepy/pull/236)** — Make empty Kiwi templates format as an empty string instead of raising `StopIteration`. Includes a regression test; merged October 3, 2026.
-- **ForestCI [#128](https://github.com/scikit-learn-contrib/forest-confidence-interval/pull/128), [#130](https://github.com/scikit-learn-contrib/forest-confidence-interval/pull/130), [#132](https://github.com/scikit-learn-contrib/forest-confidence-interval/pull/132)** — Correct training-row bias correction, single-sample memory handling, and supplied sampling counts during calibration. 훈련 행 순서·단일 샘플·보정 단계의 오류를 회귀 테스트로 검증했습니다. Maintainer-reviewed and merged October 3, 2026.
+- **ForestCI [#128](https://github.com/scikit-learn-contrib/forest-confidence-interval/pull/128), [#130](https://github.com/scikit-learn-contrib/forest-confidence-interval/pull/130), [#132](https://github.com/scikit-learn-contrib/forest-confidence-interval/pull/132)** — Correct training-row bias correction, single-sample memory handling, and supplied sampling counts during calibration. 훈련 행 순서·단일 샘플·보정 단계의 오류를 회귀 테스트로 검증했습니다. Merged by the maintainer on October 3, 2026.
 
 ## Pending review
 
