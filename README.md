@@ -1,34 +1,32 @@
-# Kyunghan Bae · UNICUP / F&B
+# Kyunghan Bae
 
-F&B 운영 현장에서 필요한 도구를 만들고, 공개 프로젝트의 오류를 재현해 작은 수정과 회귀 테스트로 기여합니다.
+UNICUP에서 F&B 운영을 하며, 반복되는 데이터 확인과 메뉴 원가 계산을 Python 도구로 만듭니다. 공개 프로젝트에는 오류 재현과 회귀 테스트로 기여합니다.
 
-I work in F&B operations at [UNICUP Company](https://www.unicupcompany.com) and build practical tools for menu costs, business workflows, and public-data checks.
+I work in F&B operations at [UNICUP](https://www.unicupcompany.com). I build Python tools for data checks and menu costs, and contribute reproducible fixes to open-source projects.
 
-## Tools I build
+## Public Data Sentinel
 
-| Project | What it helps with |
-| --- | --- |
-| [F&B Menu Margin Kit](https://github.com/qorud02/fnb-margin-kit) | 메뉴 원가·판매 수량으로 공헌이익을 계산합니다. Decimal calculations, Korean CSV examples, tests, and CI. |
-| [Public Data Sentinel](https://github.com/qorud02/public-data-sentinel) | CSV·JSON의 누락 값, 날짜, 숫자 범위, 중복 키를 검사합니다. Explicit contracts, readable reports, tests, and CI. |
+[Public Data Sentinel](https://github.com/qorud02/public-data-sentinel) checks CSV and JSON against an explicit contract. It preserves text identifiers such as `00123` and reports the record and field that failed. Python 3.10+; no runtime dependencies.
 
-## First contributions
+필수 값, 숫자 범위, 날짜, 중복 키를 검사합니다. [예제 결과](https://github.com/qorud02/public-data-sentinel/blob/main/examples/valid-report.json)와 [Windows·Linux 검사](https://github.com/qorud02/public-data-sentinel/actions/workflows/tests.yml)를 확인할 수 있습니다.
 
-작은 초안 PR로 참여할 수 있는 작업입니다. Questions and proposals in Korean or English can go in the linked issue.
+```sh
+git clone https://github.com/qorud02/public-data-sentinel.git
+cd public-data-sentinel
+python -m pip install -e .
+data-sentinel examples/valid.csv --contract examples/contract.json
+```
 
-- **[TSV input support](https://github.com/qorud02/public-data-sentinel/issues/2)** — 공공 데이터 파일의 탭 구분 형식을 지원하고 문자 식별자를 보존합니다.
-- **[Store versus delivery example](https://github.com/qorud02/fnb-margin-kit/issues/2)** — 같은 메뉴의 포장비·수수료 차이를 설명하는 검증 가능한 예제를 만듭니다.
+The example checks three records and returns exit code 0.
 
-## Merged contributions
+**첫 기여 / First contribution:** [TSV input support #2](https://github.com/qorud02/public-data-sentinel/issues/2). Read the [Korean/English contributor guide](https://github.com/qorud02/public-data-sentinel/blob/main/CONTRIBUTING.md), discuss your scope in the issue, and send a small draft PR with tests. 질문과 제안은 한국어·영어 모두 가능합니다.
 
-- **[USGS dataretrieval-python #431](https://github.com/DOI-USGS/dataretrieval-python/pull/431)** — Reject missing nearest-observation timestamps before querying water data. The maintainer reviewed and extended the validation; merged October 1, 2026.
-- **[kiwipiepy #236](https://github.com/bab2min/kiwipiepy/pull/236)** — Make empty Kiwi templates format as an empty string instead of raising `StopIteration`. Includes a regression test; merged October 3, 2026.
-- **ForestCI [#128](https://github.com/scikit-learn-contrib/forest-confidence-interval/pull/128), [#130](https://github.com/scikit-learn-contrib/forest-confidence-interval/pull/130), [#132](https://github.com/scikit-learn-contrib/forest-confidence-interval/pull/132)** — Correct training-row bias correction, single-sample memory handling, and supplied sampling counts during calibration. 훈련 행 순서·단일 샘플·보정 단계의 오류를 회귀 테스트로 검증했습니다. Merged by the maintainer on October 3, 2026.
+## F&B Menu Margin Kit
 
-## Pending review
+[F&B Menu Margin Kit](https://github.com/qorud02/fnb-margin-kit) calculates menu contribution using Decimal arithmetic. 메뉴별 원가·판매 수량으로 공헌이익을 계산합니다. [매장·배달 비교 예제 #2](https://github.com/qorud02/fnb-margin-kit/issues/2)에 참여할 수 있습니다.
 
-- **[FinanceDataReader #291](https://github.com/FinanceData/FinanceDataReader/pull/291)** — Keep the final Yahoo quote for each daily date so duplicate dates do not break multi-symbol requests.
-- [Contribution records](https://github.com/qorud02/qorud02/tree/main/contributions/2026-10-02) — patches and verification notes.
+## Merged fixes
 
-## Interests
-
-F&B operations, useful Python tools, Korean text processing, and reliable public data.
+- [USGS dataretrieval-python #431](https://github.com/DOI-USGS/dataretrieval-python/pull/431) — reject missing nearest-observation timestamps.
+- [kiwipiepy #236](https://github.com/bab2min/kiwipiepy/pull/236) — support empty Kiwi format strings.
+- ForestCI [#128](https://github.com/scikit-learn-contrib/forest-confidence-interval/pull/128), [#130](https://github.com/scikit-learn-contrib/forest-confidence-interval/pull/130), [#132](https://github.com/scikit-learn-contrib/forest-confidence-interval/pull/132) — correct bias correction, single-sample variance, and calibration with supplied sampling counts.
