@@ -11,8 +11,8 @@ Contact: [ceo@unicupcompany.com](mailto:ceo@unicupcompany.com)
 | Tool | Use it when | Run and install |
 | --- | --- | --- |
 | [JSON Repr Probe](https://github.com/qorud02/json-repr-probe) | Your CLI should return the same JSON result despite key order, whitespace, line endings, or Unicode escapes. Select a result subtree with `--compare-pointer /data` to leave changing metadata out of comparison. | [Examples](https://github.com/qorud02/json-repr-probe/tree/main/examples) · [Wheel 0.2.0](https://github.com/qorud02/json-repr-probe/releases/tag/v0.2.0) · [Container](https://github.com/qorud02/json-repr-probe/pkgs/container/json-repr-probe) |
-| [JUnit Evidence Gate](https://github.com/qorud02/junit-evidence-gate) | A green CI report must contain actual testcase records and meet execution and skip limits. Emit GitHub error annotations with `--format github`. | [Examples](https://github.com/qorud02/junit-evidence-gate/tree/main/examples) · [Wheel 0.2.0](https://github.com/qorud02/junit-evidence-gate/releases/tag/v0.2.0) · [Container](https://github.com/qorud02/junit-evidence-gate/pkgs/container/junit-evidence-gate) |
-| [Public Data Sentinel](https://github.com/qorud02/public-data-sentinel) | CSV, TSV, or JSON data must satisfy explicit rules before entering a report. Preserve text identifiers such as `00123` and display field names literally in Markdown. | [Examples](https://github.com/qorud02/public-data-sentinel/tree/main/examples) · [Wheel 0.2.0](https://github.com/qorud02/public-data-sentinel/releases/tag/v0.2.0) · [Container](https://github.com/qorud02/public-data-sentinel/pkgs/container/public-data-sentinel) |
+| [JUnit Evidence Gate](https://github.com/qorud02/junit-evidence-gate) | A green CI report must contain actual testcase records and meet execution and skip limits. Emit GitHub error annotations with `--format github`. | [Examples](https://github.com/qorud02/junit-evidence-gate/tree/main/examples) · [Wheel 0.2.1](https://github.com/qorud02/junit-evidence-gate/releases/tag/v0.2.1) · [Container](https://github.com/qorud02/junit-evidence-gate/pkgs/container/junit-evidence-gate) |
+| [Public Data Sentinel](https://github.com/qorud02/public-data-sentinel) | CSV, TSV, or JSON data must satisfy explicit rules before entering a report. Preserve text identifiers such as `00123` and display field names literally in Markdown. | [Examples](https://github.com/qorud02/public-data-sentinel/tree/main/examples) · [Wheel 0.2.1](https://github.com/qorud02/public-data-sentinel/releases/tag/v0.2.1) · [Container](https://github.com/qorud02/public-data-sentinel/pkgs/container/public-data-sentinel) |
 
 These tools run offline with Python 3.10+ and have no runtime dependencies. Each repository includes installation instructions, runnable examples, and Windows/Linux CI.
 
@@ -30,7 +30,7 @@ The stable CLI passes. Replace `examples.stable_cli` with `examples.order_sensit
 
 Calculate menu contribution after ingredients, packaging, and platform fees using Decimal arithmetic. It handles Korean CSV exports, VAT, negative margins, and optional fixed-cost scenarios.
 
-[Sample data](https://github.com/qorud02/fnb-margin-kit/blob/main/examples/menu.csv) · [Calculation basis](https://github.com/qorud02/fnb-margin-kit#calculation-basis) · [Tests](https://github.com/qorud02/fnb-margin-kit/actions/workflows/ci.yml)
+[Store and delivery comparison](https://github.com/qorud02/fnb-margin-kit/blob/main/docs/store-versus-delivery.md) · [Wheel 0.1.0](https://github.com/qorud02/fnb-margin-kit/releases/tag/v0.1.0) · [Container](https://github.com/qorud02/fnb-margin-kit/pkgs/container/fnb-margin-kit) · [Calculation basis](https://github.com/qorud02/fnb-margin-kit#calculation-basis) · [Tests](https://github.com/qorud02/fnb-margin-kit/actions/workflows/ci.yml)
 
 ## Merged upstream fixes
 
