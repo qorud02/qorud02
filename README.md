@@ -1,36 +1,26 @@
-# F&B operator & field validation partner
+# Kyunghan Bae · UNICUP / F&B
 
-I build practical tools for F&B operations, business workflows, and public-data quality. My background is in operating businesses and testing ideas in the field; I use AI-assisted development to turn concrete problems into reproducible tools.
+F&B 운영 현장에서 필요한 도구를 만들고, 공개 프로젝트의 오류를 재현해 작은 수정과 회귀 테스트로 기여합니다.
 
-## Selected Open-Source Contributions
+I work in F&B operations at [UNICUP Company](https://www.unicupcompany.com) and build practical tools for menu costs, business workflows, and public-data checks.
 
-### U.S. Geological Survey (USGS)
+## Tools I build
 
-Contributed missing-timestamp input validation to the public [`DOI-USGS/dataretrieval-python`](https://github.com/DOI-USGS/dataretrieval-python) project.
+| Project | What it helps with |
+| --- | --- |
+| [F&B Menu Margin Kit](https://github.com/qorud02/fnb-margin-kit) | 메뉴 원가·판매 수량으로 공헌이익을 계산합니다. Decimal calculations, Korean CSV examples, tests, and CI. |
+| [Public Data Sentinel](https://github.com/qorud02/public-data-sentinel) | CSV·JSON의 누락 값, 날짜, 숫자 범위, 중복 키를 검사합니다. Explicit contracts, readable reports, tests, and CI. |
 
-[PR #431 — Reject missing nearest-observation targets](https://github.com/DOI-USGS/dataretrieval-python/pull/431) improves `get_nearest_continuous`. A project maintainer reviewed and extended the change, approved it, and merged it into `main` on October 1, 2026.
+## Merged contributions
 
-### FinanceDataReader — pending review
+- **[USGS dataretrieval-python #431](https://github.com/DOI-USGS/dataretrieval-python/pull/431)** — Reject missing nearest-observation timestamps before querying water data. The maintainer reviewed and extended the validation; merged October 1, 2026.
+- **[kiwipiepy #236](https://github.com/bab2min/kiwipiepy/pull/236)** — Make empty Kiwi templates format as an empty string instead of raising `StopIteration`. Includes a regression test; merged October 3, 2026.
 
-[PR #291 — Keep the final Yahoo quote for each daily date](https://github.com/FinanceData/FinanceDataReader/pull/291) removes duplicate daily dates that can make multi-symbol requests fail. Five offline regression tests pass; upstream review is pending.
+## Pending review
 
-The [October 2 contribution record](https://github.com/qorud02/qorud02/tree/main/contributions/2026-10-02) contains tested patches, public branches, and verification notes from this session.
+- **[FinanceDataReader #291](https://github.com/FinanceData/FinanceDataReader/pull/291)** — Keep the final Yahoo quote for each daily date so duplicate dates do not break multi-symbol requests.
+- [Contribution records](https://github.com/qorud02/qorud02/tree/main/contributions/2026-10-02) — patches and verification notes.
 
-## What I build
+## Interests
 
-- **F&B operations tools:** menu contribution analysis, ingredient costs, and sales mix.
-- **Business workflow tools:** structured inputs, readable reports, and repeatable checks.
-- **Public-data utilities:** validation and small, testable fixes for real open-source projects.
-
-## Current interests
-
-F&B brands and retail operations, field validation of business tools, and reliable public-data workflows.
-
-F&B 운영·브랜드·현장 검증 경험을 바탕으로 실용 도구를 만듭니다. 공개 기여는 실제 PR과 유지관리자 검토 기록으로 확인할 수 있습니다.
-
-## Selected projects
-
-- [F&B Menu Margin Kit](https://github.com/qorud02/fnb-margin-kit) — validates menu costs and sales mix, then ranks contribution before fixed costs. Includes Korean CSV examples, decimal calculations, and tests.
-- [Public Data Sentinel](https://github.com/qorud02/public-data-sentinel) — checks CSV/JSON extracts for missing values, invalid dates, numeric bounds, and duplicate keys, with readable reports and tests.
-
-[UNICUP Company](https://www.unicupcompany.com)
+F&B operations, useful Python tools, Korean text processing, and reliable public data.
