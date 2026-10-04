@@ -37,6 +37,7 @@ Calculate menu contribution after ingredients, packaging, and platform fees usin
 - [USGS dataretrieval-python #431](https://github.com/DOI-USGS/dataretrieval-python/pull/431): reject missing nearest-observation timestamps.
 - [kiwipiepy #236](https://github.com/bab2min/kiwipiepy/pull/236): support empty Kiwi format strings.
 - ForestCI [#128](https://github.com/scikit-learn-contrib/forest-confidence-interval/pull/128), [#130](https://github.com/scikit-learn-contrib/forest-confidence-interval/pull/130), [#132](https://github.com/scikit-learn-contrib/forest-confidence-interval/pull/132): correct bias correction, single-sample variance, and calibration with supplied sampling counts.
+- [ForestCI #134](https://github.com/scikit-learn-contrib/forest-confidence-interval/pull/134): release unselected class-probability arrays before stacking.
 
 ## Contribute
 
