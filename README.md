@@ -30,7 +30,7 @@ The stable CLI passes. Replace `examples.stable_cli` with `examples.order_sensit
 
 Calculate menu contribution after ingredients, packaging, and platform fees using Decimal arithmetic. It handles Korean CSV exports, VAT, negative margins, and optional fixed-cost scenarios.
 
-[Store and delivery comparison](https://github.com/qorud02/fnb-margin-kit/blob/main/docs/store-versus-delivery.md) · [Wheel 0.1.0](https://github.com/qorud02/fnb-margin-kit/releases/tag/v0.1.0) · [Container](https://github.com/qorud02/fnb-margin-kit/pkgs/container/fnb-margin-kit) · [Calculation basis](https://github.com/qorud02/fnb-margin-kit#calculation-basis) · [Tests](https://github.com/qorud02/fnb-margin-kit/actions/workflows/ci.yml)
+[Store and delivery comparison](https://github.com/qorud02/fnb-margin-kit/blob/main/docs/store-versus-delivery.md) · [Wheel 0.6.0](https://github.com/qorud02/fnb-margin-kit/releases/tag/v0.6.0) · [Container](https://github.com/qorud02/fnb-margin-kit/pkgs/container/fnb-margin-kit) · [Calculation basis](https://github.com/qorud02/fnb-margin-kit#calculation-basis) · [Tests](https://github.com/qorud02/fnb-margin-kit/actions/workflows/ci.yml)
 
 ## Merged upstream fixes
 
