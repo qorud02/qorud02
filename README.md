@@ -34,7 +34,9 @@ Calculate menu contribution after ingredients, packaging, and platform fees usin
 
 ## Merged upstream fixes
 
-- [USGS dataretrieval-python #431](https://github.com/DOI-USGS/dataretrieval-python/pull/431): reject missing nearest-observation timestamps.
+- [USGS dataretrieval-python #431](https://github.com/DOI-USGS/dataretrieval-python/pull/431): reject missing nearest-observation timestamps; included in [v1.4.0](https://github.com/DOI-USGS/dataretrieval-python/releases/tag/v1.4.0).
+- [scikit-hep-testdata #240](https://github.com/scikit-hep/scikit-hep-testdata/pull/240): isolate the cache failure test from network access and shared state.
+- [HDX Python API #114](https://github.com/OCHA-DAP/hdx-python-api/pull/114): correct resource-generation date examples to use explicit keyword arguments.
 - [kiwipiepy #236](https://github.com/bab2min/kiwipiepy/pull/236): support empty Kiwi format strings.
 - ForestCI [#128](https://github.com/scikit-learn-contrib/forest-confidence-interval/pull/128), [#130](https://github.com/scikit-learn-contrib/forest-confidence-interval/pull/130), [#132](https://github.com/scikit-learn-contrib/forest-confidence-interval/pull/132): correct bias correction, single-sample variance, and calibration with supplied sampling counts.
 - [ForestCI #134](https://github.com/scikit-learn-contrib/forest-confidence-interval/pull/134): release unselected class-probability arrays before stacking.
