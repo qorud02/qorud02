@@ -1,10 +1,12 @@
-# Kyunghan Bae
+# Kyunghan Bae · 배경한
 
 I build small Python tools for data validation, CLI testing, and CI evidence. I work in F&B operations at [UNICUP](https://www.unicupcompany.com) and contribute reproducible fixes to open-source projects.
 
 데이터 오류와 테스트 결과를 직접 확인할 수 있는 도구를 만듭니다. 한국어·영어로 질문과 제안을 받습니다.
 
 Contact: [ceo@unicupcompany.com](mailto:ceo@unicupcompany.com)
+
+[Career & public work / 경력과 활동](https://kyunghan-bae-career.khbae.chatgpt.site/) · [AI training for organizations / 기관·기업 AI 교육](https://baegyeonghan-ai-class.khbae.chatgpt.site/)
 
 ## Developer tools
 
