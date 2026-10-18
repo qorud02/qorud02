@@ -36,6 +36,7 @@ Calculate menu contribution after ingredients, packaging, and platform fees usin
 
 ## Merged upstream fixes
 
+- [mediation #81](https://github.com/kosukeimai/mediation/pull/81): return two-sided analytic TSLS p-values.
 - [USGS dataretrieval-python #431](https://github.com/DOI-USGS/dataretrieval-python/pull/431): reject missing nearest-observation timestamps; included in [v1.4.0](https://github.com/DOI-USGS/dataretrieval-python/releases/tag/v1.4.0).
 - [scikit-hep-testdata #240](https://github.com/scikit-hep/scikit-hep-testdata/pull/240): isolate the cache failure test from network access and shared state.
 - [HDX Python API #114](https://github.com/OCHA-DAP/hdx-python-api/pull/114): correct resource-generation date examples to use explicit keyword arguments.
