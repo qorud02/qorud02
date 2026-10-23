@@ -19,8 +19,8 @@ My research combines foodservice operations with open data, statistical simulati
 
 | Research project | What the repository contains |
 | --- | --- |
-| [Bootstrap confidence-interval replication](https://github.com/qorud02/bootstrap-ci-replication) | Seven interval methods, small-sample coverage experiments, and checks against Hesterberg's numerical targets. |
-| [Shared-ingredient cafe replenishment](https://github.com/qorud02/cafe-replenishment-simulation) | Generated-demand experiments comparing three replenishment policies across 54 settings, with separate calibration and evaluation runs. |
+| [Bootstrap confidence-interval replication](https://github.com/qorud02/bootstrap-ci-replication) · [Preprint](https://doi.org/10.5281/zenodo.23298767) | Seven interval methods, small-sample coverage experiments, and checks against Hesterberg's numerical targets. |
+| [Shared-ingredient cafe replenishment](https://github.com/qorud02/cafe-replenishment-simulation) · [Preprint](https://doi.org/10.5281/zenodo.23298824) | Generated-demand experiments comparing three replenishment policies across 54 settings, with separate calibration and evaluation runs. |
 | [Robert's truncated-normal algorithms](https://github.com/qorud02/robert1995-truncated-normal-replication) | Independent calculations of 27 printed acceptance probabilities, an algorithm-switching boundary, and Monte Carlo checks. |
 
 **학술 심사 · Peer review** — Completed one manuscript review for NHI Hospitality International Journal, October 2026.
