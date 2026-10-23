@@ -8,6 +8,25 @@ Contact: [ceo@unicupcompany.com](mailto:ceo@unicupcompany.com)
 
 [Career & public work / 경력과 활동](https://profile.unicupcompany.com/) · [AI training for organizations / 기관·기업 AI 교육](https://education.unicupcompany.com/)
 
+## Research and scholarly work / 연구·학술 활동
+
+[ORCID: 0009-0009-7311-4651](https://orcid.org/0009-0009-7311-4651)
+
+**게재 승인 · Accepted article**  
+*Operational domain histories and later restaurant inspection citations in New York City* — [NHI Hospitality International Journal](https://journal.poltekpar-nhi.ac.id/index.php/nhij), October 2026.
+
+My research combines foodservice operations with open data, statistical simulation, and reproducible software. Research repositories include source traces, executable analyses, and numerical results.
+
+| Research project | What the repository contains |
+| --- | --- |
+| [Bootstrap confidence-interval replication](https://github.com/qorud02/bootstrap-ci-replication) | Seven interval methods, small-sample coverage experiments, and checks against Hesterberg's numerical targets. |
+| [Shared-ingredient cafe replenishment](https://github.com/qorud02/cafe-replenishment-simulation) | Generated-demand experiments comparing three replenishment policies across 54 settings, with separate calibration and evaluation runs. |
+| [Robert's truncated-normal algorithms](https://github.com/qorud02/robert1995-truncated-normal-replication) | Independent calculations of 27 printed acceptance probabilities, an algorithm-switching boundary, and Monte Carlo checks. |
+
+**학술 심사 · Peer review** — Completed one manuscript review for NHI Hospitality International Journal, October 2026.
+
+**저서 · Book** — *AI 프랜차이즈 혁명: 기술을 통해 경영을 바꾸다* (퍼플, 2025). [ISBN 9788924174588](https://www.kobic.net/book/bookInfo/view.do?isbn=9788924174588)
+
 ## Developer tools
 
 | Tool | Use it when | Run and install |
