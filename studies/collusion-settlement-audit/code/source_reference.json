@@ -1,0 +1,38 @@
+{
+  "authors": [
+    "Kushal Agrawal",
+    "Verona Teo",
+    "Juan J. Vazquez",
+    "Sudarsh Kunnavakkam",
+    "Vishak Srikanth",
+    "Andy Liu"
+  ],
+  "year": 2025,
+  "title": "Evaluating LLM Agent Collusion in Double Auctions",
+  "paper": "https://arxiv.org/abs/2507.01413v1",
+  "doi": "10.48550/arXiv.2507.01413",
+  "commit": "2bb2a7e22860160d1fddb5d2e5cb460cc6ec6aff",
+  "commit_tree_sha": "cbbd5f3c9ae48701acd404564ab93c71dbc506cc",
+  "source_index": {
+    "path": "src/continuous_double_auction/evaluation/evaluate.py",
+    "function": "compute_collusion_metrics",
+    "function_start_line": 118,
+    "highest_bid_line": 227,
+    "equation_line": 236,
+    "executed_price_line": 307,
+    "trade_frequency_line": 365
+  },
+  "references": {
+    "path": "src/continuous_double_auction/evaluation/metrics.py",
+    "midpoint_function": "competitive_equilibrium",
+    "midpoint_start_line": 34,
+    "jpm_start_line": 87
+  },
+  "settlement": {
+    "path": "src/continuous_double_auction/market/market.py",
+    "function": "resolve_trades_if_any",
+    "start_line": 265,
+    "midpoint_trade_price_line": 275,
+    "rounding_line": 277
+  }
+}

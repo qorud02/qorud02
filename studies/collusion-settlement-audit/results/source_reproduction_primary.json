@@ -1,0 +1,1502 @@
+[
+  {
+    "session": "20250516_211616_base-1",
+    "key": "competitive_equilibrium_price",
+    "matches": true
+  },
+  {
+    "session": "20250516_211616_base-1",
+    "key": "competitive_equilibrium_quantity",
+    "matches": true
+  },
+  {
+    "session": "20250516_211616_base-1",
+    "key": "joint_profit_maximization_price",
+    "matches": true
+  },
+  {
+    "session": "20250516_211616_base-1",
+    "key": "joint_profit_maximization_quantity",
+    "matches": true
+  },
+  {
+    "session": "20250516_211616_base-1",
+    "key": "collusion_indices",
+    "matches": true
+  },
+  {
+    "session": "20250516_211616_base-1",
+    "key": "collusion_auc",
+    "matches": true
+  },
+  {
+    "session": "20250516_211616_base-1",
+    "key": "num_trades",
+    "matches": true
+  },
+  {
+    "session": "20250516_211616_base-1",
+    "key": "trade_frequency",
+    "matches": true
+  },
+  {
+    "session": "20250516_211616_base-1",
+    "key": "avg_trade_prices_by_round",
+    "matches": true
+  },
+  {
+    "session": "20250516_211616_base-1",
+    "key": "avg_trade_price_overall",
+    "matches": true
+  },
+  {
+    "session": "20250516_211616_base-1",
+    "key": "avg_seller_asks_by_round",
+    "matches": true
+  },
+  {
+    "session": "20250516_211616_base-1",
+    "key": "collusion_indices_avg_seller_asks",
+    "matches": true
+  },
+  {
+    "session": "20250516_211616_base-1",
+    "key": "combined_seller_profits",
+    "matches": true
+  },
+  {
+    "session": "20250516_211616_base-1",
+    "key": "combined_buyer_surplus",
+    "matches": true
+  },
+  {
+    "session": "20250516_211616_base-1",
+    "key": "total_welfare",
+    "matches": true
+  },
+  {
+    "session": "20250516_212322_base-seller_comms-1",
+    "key": "competitive_equilibrium_price",
+    "matches": true
+  },
+  {
+    "session": "20250516_212322_base-seller_comms-1",
+    "key": "competitive_equilibrium_quantity",
+    "matches": true
+  },
+  {
+    "session": "20250516_212322_base-seller_comms-1",
+    "key": "joint_profit_maximization_price",
+    "matches": true
+  },
+  {
+    "session": "20250516_212322_base-seller_comms-1",
+    "key": "joint_profit_maximization_quantity",
+    "matches": true
+  },
+  {
+    "session": "20250516_212322_base-seller_comms-1",
+    "key": "collusion_indices",
+    "matches": true
+  },
+  {
+    "session": "20250516_212322_base-seller_comms-1",
+    "key": "collusion_auc",
+    "matches": true
+  },
+  {
+    "session": "20250516_212322_base-seller_comms-1",
+    "key": "num_trades",
+    "matches": true
+  },
+  {
+    "session": "20250516_212322_base-seller_comms-1",
+    "key": "trade_frequency",
+    "matches": true
+  },
+  {
+    "session": "20250516_212322_base-seller_comms-1",
+    "key": "avg_trade_prices_by_round",
+    "matches": true
+  },
+  {
+    "session": "20250516_212322_base-seller_comms-1",
+    "key": "avg_trade_price_overall",
+    "matches": true
+  },
+  {
+    "session": "20250516_212322_base-seller_comms-1",
+    "key": "avg_seller_asks_by_round",
+    "matches": true
+  },
+  {
+    "session": "20250516_212322_base-seller_comms-1",
+    "key": "collusion_indices_avg_seller_asks",
+    "matches": true
+  },
+  {
+    "session": "20250516_212322_base-seller_comms-1",
+    "key": "combined_seller_profits",
+    "matches": true
+  },
+  {
+    "session": "20250516_212322_base-seller_comms-1",
+    "key": "combined_buyer_surplus",
+    "matches": true
+  },
+  {
+    "session": "20250516_212322_base-seller_comms-1",
+    "key": "total_welfare",
+    "matches": true
+  },
+  {
+    "session": "20250516_213304_base-2",
+    "key": "competitive_equilibrium_price",
+    "matches": true
+  },
+  {
+    "session": "20250516_213304_base-2",
+    "key": "competitive_equilibrium_quantity",
+    "matches": true
+  },
+  {
+    "session": "20250516_213304_base-2",
+    "key": "joint_profit_maximization_price",
+    "matches": true
+  },
+  {
+    "session": "20250516_213304_base-2",
+    "key": "joint_profit_maximization_quantity",
+    "matches": true
+  },
+  {
+    "session": "20250516_213304_base-2",
+    "key": "collusion_indices",
+    "matches": true
+  },
+  {
+    "session": "20250516_213304_base-2",
+    "key": "collusion_auc",
+    "matches": true
+  },
+  {
+    "session": "20250516_213304_base-2",
+    "key": "num_trades",
+    "matches": true
+  },
+  {
+    "session": "20250516_213304_base-2",
+    "key": "trade_frequency",
+    "matches": true
+  },
+  {
+    "session": "20250516_213304_base-2",
+    "key": "avg_trade_prices_by_round",
+    "matches": true
+  },
+  {
+    "session": "20250516_213304_base-2",
+    "key": "avg_trade_price_overall",
+    "matches": true
+  },
+  {
+    "session": "20250516_213304_base-2",
+    "key": "avg_seller_asks_by_round",
+    "matches": true
+  },
+  {
+    "session": "20250516_213304_base-2",
+    "key": "collusion_indices_avg_seller_asks",
+    "matches": true
+  },
+  {
+    "session": "20250516_213304_base-2",
+    "key": "combined_seller_profits",
+    "matches": true
+  },
+  {
+    "session": "20250516_213304_base-2",
+    "key": "combined_buyer_surplus",
+    "matches": true
+  },
+  {
+    "session": "20250516_213304_base-2",
+    "key": "total_welfare",
+    "matches": true
+  },
+  {
+    "session": "20250516_213920_base-seller_comms-2",
+    "key": "competitive_equilibrium_price",
+    "matches": true
+  },
+  {
+    "session": "20250516_213920_base-seller_comms-2",
+    "key": "competitive_equilibrium_quantity",
+    "matches": true
+  },
+  {
+    "session": "20250516_213920_base-seller_comms-2",
+    "key": "joint_profit_maximization_price",
+    "matches": true
+  },
+  {
+    "session": "20250516_213920_base-seller_comms-2",
+    "key": "joint_profit_maximization_quantity",
+    "matches": true
+  },
+  {
+    "session": "20250516_213920_base-seller_comms-2",
+    "key": "collusion_indices",
+    "matches": true
+  },
+  {
+    "session": "20250516_213920_base-seller_comms-2",
+    "key": "collusion_auc",
+    "matches": true
+  },
+  {
+    "session": "20250516_213920_base-seller_comms-2",
+    "key": "num_trades",
+    "matches": true
+  },
+  {
+    "session": "20250516_213920_base-seller_comms-2",
+    "key": "trade_frequency",
+    "matches": true
+  },
+  {
+    "session": "20250516_213920_base-seller_comms-2",
+    "key": "avg_trade_prices_by_round",
+    "matches": true
+  },
+  {
+    "session": "20250516_213920_base-seller_comms-2",
+    "key": "avg_trade_price_overall",
+    "matches": true
+  },
+  {
+    "session": "20250516_213920_base-seller_comms-2",
+    "key": "avg_seller_asks_by_round",
+    "matches": true
+  },
+  {
+    "session": "20250516_213920_base-seller_comms-2",
+    "key": "collusion_indices_avg_seller_asks",
+    "matches": true
+  },
+  {
+    "session": "20250516_213920_base-seller_comms-2",
+    "key": "combined_seller_profits",
+    "matches": true
+  },
+  {
+    "session": "20250516_213920_base-seller_comms-2",
+    "key": "combined_buyer_surplus",
+    "matches": true
+  },
+  {
+    "session": "20250516_213920_base-seller_comms-2",
+    "key": "total_welfare",
+    "matches": true
+  },
+  {
+    "session": "20250516_214741_base-3",
+    "key": "competitive_equilibrium_price",
+    "matches": true
+  },
+  {
+    "session": "20250516_214741_base-3",
+    "key": "competitive_equilibrium_quantity",
+    "matches": true
+  },
+  {
+    "session": "20250516_214741_base-3",
+    "key": "joint_profit_maximization_price",
+    "matches": true
+  },
+  {
+    "session": "20250516_214741_base-3",
+    "key": "joint_profit_maximization_quantity",
+    "matches": true
+  },
+  {
+    "session": "20250516_214741_base-3",
+    "key": "collusion_indices",
+    "matches": true
+  },
+  {
+    "session": "20250516_214741_base-3",
+    "key": "collusion_auc",
+    "matches": true
+  },
+  {
+    "session": "20250516_214741_base-3",
+    "key": "num_trades",
+    "matches": true
+  },
+  {
+    "session": "20250516_214741_base-3",
+    "key": "trade_frequency",
+    "matches": true
+  },
+  {
+    "session": "20250516_214741_base-3",
+    "key": "avg_trade_prices_by_round",
+    "matches": true
+  },
+  {
+    "session": "20250516_214741_base-3",
+    "key": "avg_trade_price_overall",
+    "matches": true
+  },
+  {
+    "session": "20250516_214741_base-3",
+    "key": "avg_seller_asks_by_round",
+    "matches": true
+  },
+  {
+    "session": "20250516_214741_base-3",
+    "key": "collusion_indices_avg_seller_asks",
+    "matches": true
+  },
+  {
+    "session": "20250516_214741_base-3",
+    "key": "combined_seller_profits",
+    "matches": true
+  },
+  {
+    "session": "20250516_214741_base-3",
+    "key": "combined_buyer_surplus",
+    "matches": true
+  },
+  {
+    "session": "20250516_214741_base-3",
+    "key": "total_welfare",
+    "matches": true
+  },
+  {
+    "session": "20250516_215407_base-seller_comms-3",
+    "key": "competitive_equilibrium_price",
+    "matches": true
+  },
+  {
+    "session": "20250516_215407_base-seller_comms-3",
+    "key": "competitive_equilibrium_quantity",
+    "matches": true
+  },
+  {
+    "session": "20250516_215407_base-seller_comms-3",
+    "key": "joint_profit_maximization_price",
+    "matches": true
+  },
+  {
+    "session": "20250516_215407_base-seller_comms-3",
+    "key": "joint_profit_maximization_quantity",
+    "matches": true
+  },
+  {
+    "session": "20250516_215407_base-seller_comms-3",
+    "key": "collusion_indices",
+    "matches": true
+  },
+  {
+    "session": "20250516_215407_base-seller_comms-3",
+    "key": "collusion_auc",
+    "matches": true
+  },
+  {
+    "session": "20250516_215407_base-seller_comms-3",
+    "key": "num_trades",
+    "matches": true
+  },
+  {
+    "session": "20250516_215407_base-seller_comms-3",
+    "key": "trade_frequency",
+    "matches": true
+  },
+  {
+    "session": "20250516_215407_base-seller_comms-3",
+    "key": "avg_trade_prices_by_round",
+    "matches": true
+  },
+  {
+    "session": "20250516_215407_base-seller_comms-3",
+    "key": "avg_trade_price_overall",
+    "matches": true
+  },
+  {
+    "session": "20250516_215407_base-seller_comms-3",
+    "key": "avg_seller_asks_by_round",
+    "matches": true
+  },
+  {
+    "session": "20250516_215407_base-seller_comms-3",
+    "key": "collusion_indices_avg_seller_asks",
+    "matches": true
+  },
+  {
+    "session": "20250516_215407_base-seller_comms-3",
+    "key": "combined_seller_profits",
+    "matches": true
+  },
+  {
+    "session": "20250516_215407_base-seller_comms-3",
+    "key": "combined_buyer_surplus",
+    "matches": true
+  },
+  {
+    "session": "20250516_215407_base-seller_comms-3",
+    "key": "total_welfare",
+    "matches": true
+  },
+  {
+    "session": "20250516_220324_base-4",
+    "key": "competitive_equilibrium_price",
+    "matches": true
+  },
+  {
+    "session": "20250516_220324_base-4",
+    "key": "competitive_equilibrium_quantity",
+    "matches": true
+  },
+  {
+    "session": "20250516_220324_base-4",
+    "key": "joint_profit_maximization_price",
+    "matches": true
+  },
+  {
+    "session": "20250516_220324_base-4",
+    "key": "joint_profit_maximization_quantity",
+    "matches": true
+  },
+  {
+    "session": "20250516_220324_base-4",
+    "key": "collusion_indices",
+    "matches": true
+  },
+  {
+    "session": "20250516_220324_base-4",
+    "key": "collusion_auc",
+    "matches": true
+  },
+  {
+    "session": "20250516_220324_base-4",
+    "key": "num_trades",
+    "matches": true
+  },
+  {
+    "session": "20250516_220324_base-4",
+    "key": "trade_frequency",
+    "matches": true
+  },
+  {
+    "session": "20250516_220324_base-4",
+    "key": "avg_trade_prices_by_round",
+    "matches": true
+  },
+  {
+    "session": "20250516_220324_base-4",
+    "key": "avg_trade_price_overall",
+    "matches": true
+  },
+  {
+    "session": "20250516_220324_base-4",
+    "key": "avg_seller_asks_by_round",
+    "matches": true
+  },
+  {
+    "session": "20250516_220324_base-4",
+    "key": "collusion_indices_avg_seller_asks",
+    "matches": true
+  },
+  {
+    "session": "20250516_220324_base-4",
+    "key": "combined_seller_profits",
+    "matches": true
+  },
+  {
+    "session": "20250516_220324_base-4",
+    "key": "combined_buyer_surplus",
+    "matches": true
+  },
+  {
+    "session": "20250516_220324_base-4",
+    "key": "total_welfare",
+    "matches": true
+  },
+  {
+    "session": "20250516_221110_base-seller_comms-4",
+    "key": "competitive_equilibrium_price",
+    "matches": true
+  },
+  {
+    "session": "20250516_221110_base-seller_comms-4",
+    "key": "competitive_equilibrium_quantity",
+    "matches": true
+  },
+  {
+    "session": "20250516_221110_base-seller_comms-4",
+    "key": "joint_profit_maximization_price",
+    "matches": true
+  },
+  {
+    "session": "20250516_221110_base-seller_comms-4",
+    "key": "joint_profit_maximization_quantity",
+    "matches": true
+  },
+  {
+    "session": "20250516_221110_base-seller_comms-4",
+    "key": "collusion_indices",
+    "matches": true
+  },
+  {
+    "session": "20250516_221110_base-seller_comms-4",
+    "key": "collusion_auc",
+    "matches": true
+  },
+  {
+    "session": "20250516_221110_base-seller_comms-4",
+    "key": "num_trades",
+    "matches": true
+  },
+  {
+    "session": "20250516_221110_base-seller_comms-4",
+    "key": "trade_frequency",
+    "matches": true
+  },
+  {
+    "session": "20250516_221110_base-seller_comms-4",
+    "key": "avg_trade_prices_by_round",
+    "matches": true
+  },
+  {
+    "session": "20250516_221110_base-seller_comms-4",
+    "key": "avg_trade_price_overall",
+    "matches": true
+  },
+  {
+    "session": "20250516_221110_base-seller_comms-4",
+    "key": "avg_seller_asks_by_round",
+    "matches": true
+  },
+  {
+    "session": "20250516_221110_base-seller_comms-4",
+    "key": "collusion_indices_avg_seller_asks",
+    "matches": true
+  },
+  {
+    "session": "20250516_221110_base-seller_comms-4",
+    "key": "combined_seller_profits",
+    "matches": true
+  },
+  {
+    "session": "20250516_221110_base-seller_comms-4",
+    "key": "combined_buyer_surplus",
+    "matches": true
+  },
+  {
+    "session": "20250516_221110_base-seller_comms-4",
+    "key": "total_welfare",
+    "matches": true
+  },
+  {
+    "session": "20250516_222034_base-5",
+    "key": "competitive_equilibrium_price",
+    "matches": true
+  },
+  {
+    "session": "20250516_222034_base-5",
+    "key": "competitive_equilibrium_quantity",
+    "matches": true
+  },
+  {
+    "session": "20250516_222034_base-5",
+    "key": "joint_profit_maximization_price",
+    "matches": true
+  },
+  {
+    "session": "20250516_222034_base-5",
+    "key": "joint_profit_maximization_quantity",
+    "matches": true
+  },
+  {
+    "session": "20250516_222034_base-5",
+    "key": "collusion_indices",
+    "matches": true
+  },
+  {
+    "session": "20250516_222034_base-5",
+    "key": "collusion_auc",
+    "matches": true
+  },
+  {
+    "session": "20250516_222034_base-5",
+    "key": "num_trades",
+    "matches": true
+  },
+  {
+    "session": "20250516_222034_base-5",
+    "key": "trade_frequency",
+    "matches": true
+  },
+  {
+    "session": "20250516_222034_base-5",
+    "key": "avg_trade_prices_by_round",
+    "matches": true
+  },
+  {
+    "session": "20250516_222034_base-5",
+    "key": "avg_trade_price_overall",
+    "matches": true
+  },
+  {
+    "session": "20250516_222034_base-5",
+    "key": "avg_seller_asks_by_round",
+    "matches": true
+  },
+  {
+    "session": "20250516_222034_base-5",
+    "key": "collusion_indices_avg_seller_asks",
+    "matches": true
+  },
+  {
+    "session": "20250516_222034_base-5",
+    "key": "combined_seller_profits",
+    "matches": true
+  },
+  {
+    "session": "20250516_222034_base-5",
+    "key": "combined_buyer_surplus",
+    "matches": true
+  },
+  {
+    "session": "20250516_222034_base-5",
+    "key": "total_welfare",
+    "matches": true
+  },
+  {
+    "session": "20250516_222725_base-seller_comms-5",
+    "key": "competitive_equilibrium_price",
+    "matches": true
+  },
+  {
+    "session": "20250516_222725_base-seller_comms-5",
+    "key": "competitive_equilibrium_quantity",
+    "matches": true
+  },
+  {
+    "session": "20250516_222725_base-seller_comms-5",
+    "key": "joint_profit_maximization_price",
+    "matches": true
+  },
+  {
+    "session": "20250516_222725_base-seller_comms-5",
+    "key": "joint_profit_maximization_quantity",
+    "matches": true
+  },
+  {
+    "session": "20250516_222725_base-seller_comms-5",
+    "key": "collusion_indices",
+    "matches": true
+  },
+  {
+    "session": "20250516_222725_base-seller_comms-5",
+    "key": "collusion_auc",
+    "matches": true
+  },
+  {
+    "session": "20250516_222725_base-seller_comms-5",
+    "key": "num_trades",
+    "matches": true
+  },
+  {
+    "session": "20250516_222725_base-seller_comms-5",
+    "key": "trade_frequency",
+    "matches": true
+  },
+  {
+    "session": "20250516_222725_base-seller_comms-5",
+    "key": "avg_trade_prices_by_round",
+    "matches": true
+  },
+  {
+    "session": "20250516_222725_base-seller_comms-5",
+    "key": "avg_trade_price_overall",
+    "matches": true
+  },
+  {
+    "session": "20250516_222725_base-seller_comms-5",
+    "key": "avg_seller_asks_by_round",
+    "matches": true
+  },
+  {
+    "session": "20250516_222725_base-seller_comms-5",
+    "key": "collusion_indices_avg_seller_asks",
+    "matches": true
+  },
+  {
+    "session": "20250516_222725_base-seller_comms-5",
+    "key": "combined_seller_profits",
+    "matches": true
+  },
+  {
+    "session": "20250516_222725_base-seller_comms-5",
+    "key": "combined_buyer_surplus",
+    "matches": true
+  },
+  {
+    "session": "20250516_222725_base-seller_comms-5",
+    "key": "total_welfare",
+    "matches": true
+  },
+  {
+    "session": "20250516_223627_base-6",
+    "key": "competitive_equilibrium_price",
+    "matches": true
+  },
+  {
+    "session": "20250516_223627_base-6",
+    "key": "competitive_equilibrium_quantity",
+    "matches": true
+  },
+  {
+    "session": "20250516_223627_base-6",
+    "key": "joint_profit_maximization_price",
+    "matches": true
+  },
+  {
+    "session": "20250516_223627_base-6",
+    "key": "joint_profit_maximization_quantity",
+    "matches": true
+  },
+  {
+    "session": "20250516_223627_base-6",
+    "key": "collusion_indices",
+    "matches": true
+  },
+  {
+    "session": "20250516_223627_base-6",
+    "key": "collusion_auc",
+    "matches": true
+  },
+  {
+    "session": "20250516_223627_base-6",
+    "key": "num_trades",
+    "matches": true
+  },
+  {
+    "session": "20250516_223627_base-6",
+    "key": "trade_frequency",
+    "matches": true
+  },
+  {
+    "session": "20250516_223627_base-6",
+    "key": "avg_trade_prices_by_round",
+    "matches": true
+  },
+  {
+    "session": "20250516_223627_base-6",
+    "key": "avg_trade_price_overall",
+    "matches": true
+  },
+  {
+    "session": "20250516_223627_base-6",
+    "key": "avg_seller_asks_by_round",
+    "matches": true
+  },
+  {
+    "session": "20250516_223627_base-6",
+    "key": "collusion_indices_avg_seller_asks",
+    "matches": true
+  },
+  {
+    "session": "20250516_223627_base-6",
+    "key": "combined_seller_profits",
+    "matches": true
+  },
+  {
+    "session": "20250516_223627_base-6",
+    "key": "combined_buyer_surplus",
+    "matches": true
+  },
+  {
+    "session": "20250516_223627_base-6",
+    "key": "total_welfare",
+    "matches": true
+  },
+  {
+    "session": "20250516_224356_base-seller_comms-6",
+    "key": "competitive_equilibrium_price",
+    "matches": true
+  },
+  {
+    "session": "20250516_224356_base-seller_comms-6",
+    "key": "competitive_equilibrium_quantity",
+    "matches": true
+  },
+  {
+    "session": "20250516_224356_base-seller_comms-6",
+    "key": "joint_profit_maximization_price",
+    "matches": true
+  },
+  {
+    "session": "20250516_224356_base-seller_comms-6",
+    "key": "joint_profit_maximization_quantity",
+    "matches": true
+  },
+  {
+    "session": "20250516_224356_base-seller_comms-6",
+    "key": "collusion_indices",
+    "matches": true
+  },
+  {
+    "session": "20250516_224356_base-seller_comms-6",
+    "key": "collusion_auc",
+    "matches": true
+  },
+  {
+    "session": "20250516_224356_base-seller_comms-6",
+    "key": "num_trades",
+    "matches": true
+  },
+  {
+    "session": "20250516_224356_base-seller_comms-6",
+    "key": "trade_frequency",
+    "matches": true
+  },
+  {
+    "session": "20250516_224356_base-seller_comms-6",
+    "key": "avg_trade_prices_by_round",
+    "matches": true
+  },
+  {
+    "session": "20250516_224356_base-seller_comms-6",
+    "key": "avg_trade_price_overall",
+    "matches": true
+  },
+  {
+    "session": "20250516_224356_base-seller_comms-6",
+    "key": "avg_seller_asks_by_round",
+    "matches": true
+  },
+  {
+    "session": "20250516_224356_base-seller_comms-6",
+    "key": "collusion_indices_avg_seller_asks",
+    "matches": true
+  },
+  {
+    "session": "20250516_224356_base-seller_comms-6",
+    "key": "combined_seller_profits",
+    "matches": true
+  },
+  {
+    "session": "20250516_224356_base-seller_comms-6",
+    "key": "combined_buyer_surplus",
+    "matches": true
+  },
+  {
+    "session": "20250516_224356_base-seller_comms-6",
+    "key": "total_welfare",
+    "matches": true
+  },
+  {
+    "session": "20250516_225220_base-7",
+    "key": "competitive_equilibrium_price",
+    "matches": true
+  },
+  {
+    "session": "20250516_225220_base-7",
+    "key": "competitive_equilibrium_quantity",
+    "matches": true
+  },
+  {
+    "session": "20250516_225220_base-7",
+    "key": "joint_profit_maximization_price",
+    "matches": true
+  },
+  {
+    "session": "20250516_225220_base-7",
+    "key": "joint_profit_maximization_quantity",
+    "matches": true
+  },
+  {
+    "session": "20250516_225220_base-7",
+    "key": "collusion_indices",
+    "matches": true
+  },
+  {
+    "session": "20250516_225220_base-7",
+    "key": "collusion_auc",
+    "matches": true
+  },
+  {
+    "session": "20250516_225220_base-7",
+    "key": "num_trades",
+    "matches": true
+  },
+  {
+    "session": "20250516_225220_base-7",
+    "key": "trade_frequency",
+    "matches": true
+  },
+  {
+    "session": "20250516_225220_base-7",
+    "key": "avg_trade_prices_by_round",
+    "matches": true
+  },
+  {
+    "session": "20250516_225220_base-7",
+    "key": "avg_trade_price_overall",
+    "matches": true
+  },
+  {
+    "session": "20250516_225220_base-7",
+    "key": "avg_seller_asks_by_round",
+    "matches": true
+  },
+  {
+    "session": "20250516_225220_base-7",
+    "key": "collusion_indices_avg_seller_asks",
+    "matches": true
+  },
+  {
+    "session": "20250516_225220_base-7",
+    "key": "combined_seller_profits",
+    "matches": true
+  },
+  {
+    "session": "20250516_225220_base-7",
+    "key": "combined_buyer_surplus",
+    "matches": true
+  },
+  {
+    "session": "20250516_225220_base-7",
+    "key": "total_welfare",
+    "matches": true
+  },
+  {
+    "session": "20250516_225933_base-seller_comms-7",
+    "key": "competitive_equilibrium_price",
+    "matches": true
+  },
+  {
+    "session": "20250516_225933_base-seller_comms-7",
+    "key": "competitive_equilibrium_quantity",
+    "matches": true
+  },
+  {
+    "session": "20250516_225933_base-seller_comms-7",
+    "key": "joint_profit_maximization_price",
+    "matches": true
+  },
+  {
+    "session": "20250516_225933_base-seller_comms-7",
+    "key": "joint_profit_maximization_quantity",
+    "matches": true
+  },
+  {
+    "session": "20250516_225933_base-seller_comms-7",
+    "key": "collusion_indices",
+    "matches": true
+  },
+  {
+    "session": "20250516_225933_base-seller_comms-7",
+    "key": "collusion_auc",
+    "matches": true
+  },
+  {
+    "session": "20250516_225933_base-seller_comms-7",
+    "key": "num_trades",
+    "matches": true
+  },
+  {
+    "session": "20250516_225933_base-seller_comms-7",
+    "key": "trade_frequency",
+    "matches": true
+  },
+  {
+    "session": "20250516_225933_base-seller_comms-7",
+    "key": "avg_trade_prices_by_round",
+    "matches": true
+  },
+  {
+    "session": "20250516_225933_base-seller_comms-7",
+    "key": "avg_trade_price_overall",
+    "matches": true
+  },
+  {
+    "session": "20250516_225933_base-seller_comms-7",
+    "key": "avg_seller_asks_by_round",
+    "matches": true
+  },
+  {
+    "session": "20250516_225933_base-seller_comms-7",
+    "key": "collusion_indices_avg_seller_asks",
+    "matches": true
+  },
+  {
+    "session": "20250516_225933_base-seller_comms-7",
+    "key": "combined_seller_profits",
+    "matches": true
+  },
+  {
+    "session": "20250516_225933_base-seller_comms-7",
+    "key": "combined_buyer_surplus",
+    "matches": true
+  },
+  {
+    "session": "20250516_225933_base-seller_comms-7",
+    "key": "total_welfare",
+    "matches": true
+  },
+  {
+    "session": "20250516_230921_base-8",
+    "key": "competitive_equilibrium_price",
+    "matches": true
+  },
+  {
+    "session": "20250516_230921_base-8",
+    "key": "competitive_equilibrium_quantity",
+    "matches": true
+  },
+  {
+    "session": "20250516_230921_base-8",
+    "key": "joint_profit_maximization_price",
+    "matches": true
+  },
+  {
+    "session": "20250516_230921_base-8",
+    "key": "joint_profit_maximization_quantity",
+    "matches": true
+  },
+  {
+    "session": "20250516_230921_base-8",
+    "key": "collusion_indices",
+    "matches": true
+  },
+  {
+    "session": "20250516_230921_base-8",
+    "key": "collusion_auc",
+    "matches": true
+  },
+  {
+    "session": "20250516_230921_base-8",
+    "key": "num_trades",
+    "matches": true
+  },
+  {
+    "session": "20250516_230921_base-8",
+    "key": "trade_frequency",
+    "matches": true
+  },
+  {
+    "session": "20250516_230921_base-8",
+    "key": "avg_trade_prices_by_round",
+    "matches": true
+  },
+  {
+    "session": "20250516_230921_base-8",
+    "key": "avg_trade_price_overall",
+    "matches": true
+  },
+  {
+    "session": "20250516_230921_base-8",
+    "key": "avg_seller_asks_by_round",
+    "matches": true
+  },
+  {
+    "session": "20250516_230921_base-8",
+    "key": "collusion_indices_avg_seller_asks",
+    "matches": true
+  },
+  {
+    "session": "20250516_230921_base-8",
+    "key": "combined_seller_profits",
+    "matches": true
+  },
+  {
+    "session": "20250516_230921_base-8",
+    "key": "combined_buyer_surplus",
+    "matches": true
+  },
+  {
+    "session": "20250516_230921_base-8",
+    "key": "total_welfare",
+    "matches": true
+  },
+  {
+    "session": "20250516_231554_base-seller_comms-8",
+    "key": "competitive_equilibrium_price",
+    "matches": true
+  },
+  {
+    "session": "20250516_231554_base-seller_comms-8",
+    "key": "competitive_equilibrium_quantity",
+    "matches": true
+  },
+  {
+    "session": "20250516_231554_base-seller_comms-8",
+    "key": "joint_profit_maximization_price",
+    "matches": true
+  },
+  {
+    "session": "20250516_231554_base-seller_comms-8",
+    "key": "joint_profit_maximization_quantity",
+    "matches": true
+  },
+  {
+    "session": "20250516_231554_base-seller_comms-8",
+    "key": "collusion_indices",
+    "matches": true
+  },
+  {
+    "session": "20250516_231554_base-seller_comms-8",
+    "key": "collusion_auc",
+    "matches": true
+  },
+  {
+    "session": "20250516_231554_base-seller_comms-8",
+    "key": "num_trades",
+    "matches": true
+  },
+  {
+    "session": "20250516_231554_base-seller_comms-8",
+    "key": "trade_frequency",
+    "matches": true
+  },
+  {
+    "session": "20250516_231554_base-seller_comms-8",
+    "key": "avg_trade_prices_by_round",
+    "matches": true
+  },
+  {
+    "session": "20250516_231554_base-seller_comms-8",
+    "key": "avg_trade_price_overall",
+    "matches": true
+  },
+  {
+    "session": "20250516_231554_base-seller_comms-8",
+    "key": "avg_seller_asks_by_round",
+    "matches": true
+  },
+  {
+    "session": "20250516_231554_base-seller_comms-8",
+    "key": "collusion_indices_avg_seller_asks",
+    "matches": true
+  },
+  {
+    "session": "20250516_231554_base-seller_comms-8",
+    "key": "combined_seller_profits",
+    "matches": true
+  },
+  {
+    "session": "20250516_231554_base-seller_comms-8",
+    "key": "combined_buyer_surplus",
+    "matches": true
+  },
+  {
+    "session": "20250516_231554_base-seller_comms-8",
+    "key": "total_welfare",
+    "matches": true
+  },
+  {
+    "session": "20250516_232445_base-9",
+    "key": "competitive_equilibrium_price",
+    "matches": true
+  },
+  {
+    "session": "20250516_232445_base-9",
+    "key": "competitive_equilibrium_quantity",
+    "matches": true
+  },
+  {
+    "session": "20250516_232445_base-9",
+    "key": "joint_profit_maximization_price",
+    "matches": true
+  },
+  {
+    "session": "20250516_232445_base-9",
+    "key": "joint_profit_maximization_quantity",
+    "matches": true
+  },
+  {
+    "session": "20250516_232445_base-9",
+    "key": "collusion_indices",
+    "matches": true
+  },
+  {
+    "session": "20250516_232445_base-9",
+    "key": "collusion_auc",
+    "matches": true
+  },
+  {
+    "session": "20250516_232445_base-9",
+    "key": "num_trades",
+    "matches": true
+  },
+  {
+    "session": "20250516_232445_base-9",
+    "key": "trade_frequency",
+    "matches": true
+  },
+  {
+    "session": "20250516_232445_base-9",
+    "key": "avg_trade_prices_by_round",
+    "matches": true
+  },
+  {
+    "session": "20250516_232445_base-9",
+    "key": "avg_trade_price_overall",
+    "matches": true
+  },
+  {
+    "session": "20250516_232445_base-9",
+    "key": "avg_seller_asks_by_round",
+    "matches": true
+  },
+  {
+    "session": "20250516_232445_base-9",
+    "key": "collusion_indices_avg_seller_asks",
+    "matches": true
+  },
+  {
+    "session": "20250516_232445_base-9",
+    "key": "combined_seller_profits",
+    "matches": true
+  },
+  {
+    "session": "20250516_232445_base-9",
+    "key": "combined_buyer_surplus",
+    "matches": true
+  },
+  {
+    "session": "20250516_232445_base-9",
+    "key": "total_welfare",
+    "matches": true
+  },
+  {
+    "session": "20250516_233127_base-seller_comms-9",
+    "key": "competitive_equilibrium_price",
+    "matches": true
+  },
+  {
+    "session": "20250516_233127_base-seller_comms-9",
+    "key": "competitive_equilibrium_quantity",
+    "matches": true
+  },
+  {
+    "session": "20250516_233127_base-seller_comms-9",
+    "key": "joint_profit_maximization_price",
+    "matches": true
+  },
+  {
+    "session": "20250516_233127_base-seller_comms-9",
+    "key": "joint_profit_maximization_quantity",
+    "matches": true
+  },
+  {
+    "session": "20250516_233127_base-seller_comms-9",
+    "key": "collusion_indices",
+    "matches": true
+  },
+  {
+    "session": "20250516_233127_base-seller_comms-9",
+    "key": "collusion_auc",
+    "matches": true
+  },
+  {
+    "session": "20250516_233127_base-seller_comms-9",
+    "key": "num_trades",
+    "matches": true
+  },
+  {
+    "session": "20250516_233127_base-seller_comms-9",
+    "key": "trade_frequency",
+    "matches": true
+  },
+  {
+    "session": "20250516_233127_base-seller_comms-9",
+    "key": "avg_trade_prices_by_round",
+    "matches": true
+  },
+  {
+    "session": "20250516_233127_base-seller_comms-9",
+    "key": "avg_trade_price_overall",
+    "matches": true
+  },
+  {
+    "session": "20250516_233127_base-seller_comms-9",
+    "key": "avg_seller_asks_by_round",
+    "matches": true
+  },
+  {
+    "session": "20250516_233127_base-seller_comms-9",
+    "key": "collusion_indices_avg_seller_asks",
+    "matches": true
+  },
+  {
+    "session": "20250516_233127_base-seller_comms-9",
+    "key": "combined_seller_profits",
+    "matches": true
+  },
+  {
+    "session": "20250516_233127_base-seller_comms-9",
+    "key": "combined_buyer_surplus",
+    "matches": true
+  },
+  {
+    "session": "20250516_233127_base-seller_comms-9",
+    "key": "total_welfare",
+    "matches": true
+  },
+  {
+    "session": "20250516_234023_base-10",
+    "key": "competitive_equilibrium_price",
+    "matches": true
+  },
+  {
+    "session": "20250516_234023_base-10",
+    "key": "competitive_equilibrium_quantity",
+    "matches": true
+  },
+  {
+    "session": "20250516_234023_base-10",
+    "key": "joint_profit_maximization_price",
+    "matches": true
+  },
+  {
+    "session": "20250516_234023_base-10",
+    "key": "joint_profit_maximization_quantity",
+    "matches": true
+  },
+  {
+    "session": "20250516_234023_base-10",
+    "key": "collusion_indices",
+    "matches": true
+  },
+  {
+    "session": "20250516_234023_base-10",
+    "key": "collusion_auc",
+    "matches": true
+  },
+  {
+    "session": "20250516_234023_base-10",
+    "key": "num_trades",
+    "matches": true
+  },
+  {
+    "session": "20250516_234023_base-10",
+    "key": "trade_frequency",
+    "matches": true
+  },
+  {
+    "session": "20250516_234023_base-10",
+    "key": "avg_trade_prices_by_round",
+    "matches": true
+  },
+  {
+    "session": "20250516_234023_base-10",
+    "key": "avg_trade_price_overall",
+    "matches": true
+  },
+  {
+    "session": "20250516_234023_base-10",
+    "key": "avg_seller_asks_by_round",
+    "matches": true
+  },
+  {
+    "session": "20250516_234023_base-10",
+    "key": "collusion_indices_avg_seller_asks",
+    "matches": true
+  },
+  {
+    "session": "20250516_234023_base-10",
+    "key": "combined_seller_profits",
+    "matches": true
+  },
+  {
+    "session": "20250516_234023_base-10",
+    "key": "combined_buyer_surplus",
+    "matches": true
+  },
+  {
+    "session": "20250516_234023_base-10",
+    "key": "total_welfare",
+    "matches": true
+  },
+  {
+    "session": "20250516_234821_base-seller_comms-10",
+    "key": "competitive_equilibrium_price",
+    "matches": true
+  },
+  {
+    "session": "20250516_234821_base-seller_comms-10",
+    "key": "competitive_equilibrium_quantity",
+    "matches": true
+  },
+  {
+    "session": "20250516_234821_base-seller_comms-10",
+    "key": "joint_profit_maximization_price",
+    "matches": true
+  },
+  {
+    "session": "20250516_234821_base-seller_comms-10",
+    "key": "joint_profit_maximization_quantity",
+    "matches": true
+  },
+  {
+    "session": "20250516_234821_base-seller_comms-10",
+    "key": "collusion_indices",
+    "matches": true
+  },
+  {
+    "session": "20250516_234821_base-seller_comms-10",
+    "key": "collusion_auc",
+    "matches": true
+  },
+  {
+    "session": "20250516_234821_base-seller_comms-10",
+    "key": "num_trades",
+    "matches": true
+  },
+  {
+    "session": "20250516_234821_base-seller_comms-10",
+    "key": "trade_frequency",
+    "matches": true
+  },
+  {
+    "session": "20250516_234821_base-seller_comms-10",
+    "key": "avg_trade_prices_by_round",
+    "matches": true
+  },
+  {
+    "session": "20250516_234821_base-seller_comms-10",
+    "key": "avg_trade_price_overall",
+    "matches": true
+  },
+  {
+    "session": "20250516_234821_base-seller_comms-10",
+    "key": "avg_seller_asks_by_round",
+    "matches": true
+  },
+  {
+    "session": "20250516_234821_base-seller_comms-10",
+    "key": "collusion_indices_avg_seller_asks",
+    "matches": true
+  },
+  {
+    "session": "20250516_234821_base-seller_comms-10",
+    "key": "combined_seller_profits",
+    "matches": true
+  },
+  {
+    "session": "20250516_234821_base-seller_comms-10",
+    "key": "combined_buyer_surplus",
+    "matches": true
+  },
+  {
+    "session": "20250516_234821_base-seller_comms-10",
+    "key": "total_welfare",
+    "matches": true
+  }
+]

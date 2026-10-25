@@ -1,0 +1,18 @@
+{
+  "source_commit": "2bb2a7e22860160d1fddb5d2e5cb460cc6ec6aff",
+  "protocol_sha256": "2cc451f9397824d25b0447e869579888198954d5a0b5ee0525350dd854a97943",
+  "final_complete_tests": 16,
+  "final_complete_suite_exit": 0,
+  "source_reproduction_comparisons": 300,
+  "source_reproduction_all_match": true,
+  "independent_session_fields": 260,
+  "independent_fields_all_match": true,
+  "pinned_inputs": 143,
+  "pinned_input_bytes": 6325873,
+  "all_input_hashes_match": true,
+  "primary_unit": "session",
+  "session_n": 20,
+  "round_n": 600,
+  "independent_computational_checks_ai_assisted": true,
+  "external_peer_review": false
+}

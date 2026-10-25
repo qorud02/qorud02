@@ -1,0 +1,22 @@
+
+test_bootstrap_seed_is_reproducible (__main__.IntegrityTests.test_bootstrap_seed_is_reproducible) ... ok
+test_completed_analysis_has_full_denominators_and_source_match (__main__.IntegrityTests.test_completed_analysis_has_full_denominators_and_source_match) ... ok
+test_duplicate_seller_trade_fails (__main__.IntegrityTests.test_duplicate_seller_trade_fails) ... ok
+test_exact_permutation_ties_are_counted (__main__.IntegrityTests.test_exact_permutation_ties_are_counted) ... ok
+test_finite_negative_surpluses_are_preserved (__main__.IntegrityTests.test_finite_negative_surpluses_are_preserved) ... ok
+test_malformed_json_fails (__main__.IntegrityTests.test_malformed_json_fails) ... ok
+test_missing_one_source_metric_fails (__main__.IntegrityTests.test_missing_one_source_metric_fails) ... ok
+test_missing_source_input_cannot_pass_vacuously (__main__.IntegrityTests.test_missing_source_input_cannot_pass_vacuously) ... ok
+test_missing_trade_key_is_not_interpreted_as_no_trade (__main__.IntegrityTests.test_missing_trade_key_is_not_interpreted_as_no_trade) ... ok
+test_no_trade_price_is_missing_not_zero (__main__.IntegrityTests.test_no_trade_price_is_missing_not_zero) ... ok
+test_pinned_download_bytes_match_source_manifest (__main__.IntegrityTests.test_pinned_download_bytes_match_source_manifest) ... ok
+test_source_tampering_is_detected (__main__.IntegrityTests.test_source_tampering_is_detected) ... ok
+test_threshold_boundaries_are_explicit (__main__.IntegrityTests.test_threshold_boundaries_are_explicit) ... ok
+test_truncated_missing_and_duplicate_rounds_fail (__main__.IntegrityTests.test_truncated_missing_and_duplicate_rounds_fail) ... ok
+test_unknown_ids_and_nonfinite_bids_fail (__main__.IntegrityTests.test_unknown_ids_and_nonfinite_bids_fail) ... ok
+test_volume_surplus_conservation_and_sign_disagreement (__main__.IntegrityTests.test_volume_surplus_conservation_and_sign_disagreement) ... ok
+
+----------------------------------------------------------------------
+Ran 16 tests in 2.378s
+
+OK

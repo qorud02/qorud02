@@ -1,0 +1,73 @@
+{
+  "dimensions": {
+    "width_inches": 6.5,
+    "height_inches": 3.75,
+    "minimum_font_pt": 9
+  },
+  "source_files": [
+    "results/sessions_primary.json",
+    "results/summary_primary.json"
+  ],
+  "input_sha256": {
+    "results/sessions_primary.json": "185f6e50191cc7e88006d77e17d5846fd6186b2822b4eb53d98d09ae0657cdb3",
+    "results/summary_primary.json": "8b75d76bcdd243b12fd1282650e4f188623f6766c17be30b32d3dcba7c8f50ca"
+  },
+  "figure1": {
+    "pdf": "figure1_sessions.pdf",
+    "caption": "Unsettled positive signals by independent session. Each dot is the percentage of 30 rounds with a positive highest-buyer-bid index and no executed trade. Horizontal jitter separates ties without changing values; thick marks show group means (0.667% and 8.000%). Each condition contains ten independent sessions. A no-trade positive signal is not a ground-truth collusion false positive.",
+    "points_percent": {
+      "no_communication": [
+        0,
+        0,
+        0,
+        0,
+        6.666666666666667,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "communication": [
+        6.666666666666667,
+        6.666666666666667,
+        6.666666666666667,
+        0,
+        0,
+        30,
+        3.3333333333333335,
+        0,
+        0,
+        26.666666666666668
+      ]
+    }
+  },
+  "figure2": {
+    "pdf": "figure2_thresholds.pdf",
+    "caption": "Threshold sensitivity of the session-mean contrast (seller communication minus no seller communication). Points show percentage-point differences in the share of rounds with I above the strict threshold and no executed trade. Bars are separate 95% percentile intervals from 20,000 within-condition session bootstrap resamples. The fixed primary threshold is zero; higher thresholds are descriptive secondary checks. Both effect size and evidential strength weaken at higher thresholds. Both conditions contain ten independent sessions, with 30 rounds per session.",
+    "values": [
+      {
+        "strict_threshold": 0,
+        "difference_pp": 7.333333333333332,
+        "ci_low_pp": 1.3333333333333335,
+        "ci_high_pp": 14.666666666666666
+      },
+      {
+        "strict_threshold": 0.25,
+        "difference_pp": 2.6666666666666665,
+        "ci_low_pp": -0.3333333333333333,
+        "ci_high_pp": 7.000000000000001
+      },
+      {
+        "strict_threshold": 0.5,
+        "difference_pp": 0.6666666666666666,
+        "ci_low_pp": 0,
+        "ci_high_pp": 2
+      }
+    ]
+  },
+  "pdf_sha256": {
+    "figure1_sessions.pdf": "bf2ea9b5737c789f6aa589f2d349c92b4e55a998d034e5e5173b628f2f0e67c7",
+    "figure2_thresholds.pdf": "41b81ca1f50c7839be77d37344bdd6f9964ec94ffe9dea69e4fc0cfcfaea6962"
+  }
+}
