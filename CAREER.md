@@ -42,11 +42,15 @@
 - 한국농수산식품유통공사(aT)·㈜상상력집단 AI 농산물 가격예측 온라인 해커톤 본선 심사위원 | 2026.11
 - 경남대학교 직업·직무 강연 | 2026.11
 
-## 저서·기고
+## 저서·기고·인터뷰
 
 - 『What an Ordinary Life Costs: Money, Belonging, and the Expectations We Inherit』 | Kyunghan Bae | Lulu.com | 2026 | 330쪽 | ISBN 978-0-557-70734-8
 - 『AI 프랜차이즈 혁명: 기술을 통해 경영을 바꾸다』 | 배경한 | 퍼플 | 2025.09.08 | ISBN 9788924174588
 - 부산일보 기고 | 2026
+- Hospemag 영문 기고 「Who Owns The Next Action After an AI Reply」 | 2026.10.06
+  https://www.hospemag.me/cms/who-owns-next-action-after-ai-reply
+- StartupValley 인터뷰 게재 | 2026.10.07
+  https://startupvalley.news/de/unicup-company-ki-cafe/
 
 영문 도서 서지: Bae, Kyunghan. (2026). What an Ordinary Life Costs: Money, Belonging, and the Expectations We Inherit. Lulu.com.
 
@@ -84,6 +88,9 @@
 - Apart Research Swarm Alignment Hackathon 참가 등록 | 2026.10.26 · 행사 2026.11.06~11.08
 
 ## 공개 소프트웨어·개발
+
+- EvalReceipt | 평가 영수증을 프로세스 종료 상태·실제 출력파일과 대조하는 Python CLI 개발·공개 배포 | 2026.10.08
+  https://github.com/qorud02/evalreceipt/releases/tag/v0.1.0
 
 - F&B Margin Kit | 외식 메뉴의 공헌이익 분석과 재료 발주량 계산 도구 개발·공개 배포  
   https://github.com/qorud02/fnb-margin-kit
