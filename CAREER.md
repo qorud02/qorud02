@@ -7,6 +7,7 @@
 외식 사업을 운영하며 업무용 AI·소프트웨어를 기획하고 개발합니다. 현장 데이터 검증과 원가·발주 계산 도구를 공개하고, 제안서 평가와 국내외 심사·자문, 학술논문 심사 활동을 이어가고 있습니다.
 
 - Google Scholar: https://scholar.google.com/citations?user=VQ2dCYwAAAAJ
+- 연구 소개: https://github.com/qorud02/qorud02/blob/main/RESEARCH.md
 - ORCID: https://orcid.org/0009-0009-7311-4651
 - GitHub: https://github.com/qorud02
 - LinkedIn: https://www.linkedin.com/in/kyunghan-bae/
@@ -65,13 +66,13 @@
 
 ### 공개 연구자료·프리프린트
 
-- 부트스트랩 신뢰구간 재현 연구 | 코드·실험자료 및 프리프린트 공개  
+- An independent replication of bootstrap confidence-interval calibration for small samples | Kyunghan Bae | Zenodo 프리프린트 | 2026.10.11  
   https://github.com/qorud02/bootstrap-ci-replication  
   https://doi.org/10.5281/zenodo.23298767
-- 공유 재료를 사용하는 카페 발주 정책 시뮬레이션 | 코드·실험자료 및 프리프린트 공개  
+- Pack sizes and expiry information in shared ingredient cafe replenishment | Kyunghan Bae | Zenodo 프리프린트 | 2026.10.11  
   https://github.com/qorud02/cafe-replenishment-simulation  
   https://doi.org/10.5281/zenodo.23298824
-- Robert의 절단정규분포 알고리즘 재현 연구 | 독립 계산·Monte Carlo 검증 코드 공개  
+- [Re] Acceptance probabilities in Robert's truncated-normal simulation algorithms | Kyunghan Bae | 공개 연구보고서·코드 | 2026.10.12  
   https://github.com/qorud02/robert1995-truncated-normal-replication
 - Kaggle 공개 연구 노트북·합성 데이터셋 | 2026.10
 - OEIS A192881 검증 기여 | 2026.10.12 · a(18)≤34에 관한 계산·검증 코드 기여  
@@ -106,7 +107,9 @@
   https://github.com/OCHA-DAP/hdx-python-api/pull/114
 - Scikit-HEP testdata | 네트워크·공유 상태에 의존하던 캐시 테스트 수정 PR #240 병합 | 2026.10.13  
   https://github.com/scikit-hep/scikit-hep-testdata/pull/240
-- kiwipiepy | 빈 Kiwi 형식 문자열 처리 관련 PR #236 기여  
+- Rule2DRC | KLayout 실행 성공 판정 오류 수정 PR #4 병합 | 2026.10.08
+  https://github.com/snu-mllab/Rule2DRC/pull/4
+- kiwipiepy | 빈 Kiwi 형식 문자열 처리 PR #236 병합 | 2026.10.03  
   https://github.com/bab2min/kiwipiepy/pull/236
 
 ## 기업 협업·선정
