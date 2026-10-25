@@ -80,6 +80,7 @@
 ### 연구 프로그램 등록
 
 - Apart Research AI Collusion Research Sprint 참가 등록 | 2026.10.08
+- Apart Research Swarm Alignment Hackathon 참가 등록 | 2026.10.26 · 행사 2026.11.06~11.08
 
 ## 공개 소프트웨어·개발
 
