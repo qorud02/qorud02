@@ -59,6 +59,9 @@ Each repository identifies its source, implementation, calculation settings and 
 
 ## Selected open-source contributions
 
+- [Rule2DRC #4](https://github.com/snu-mllab/Rule2DRC/pull/4): require every testcase execution to succeed in the KLayout evaluator; merged.
+- [kiwipiepy #236](https://github.com/bab2min/kiwipiepy/pull/236): support empty Kiwi format strings; merged.
+
 - [USGS dataretrieval-python #431](https://github.com/DOI-USGS/dataretrieval-python/pull/431): nearest-observation input validation; merged.
 - [R mediation #81](https://github.com/kosukeimai/mediation/pull/81): two-sided analytic TSLS p-value calculation; merged.
 - [ForestCI #128](https://github.com/scikit-learn-contrib/forest-confidence-interval/pull/128), [#130](https://github.com/scikit-learn-contrib/forest-confidence-interval/pull/130), [#132](https://github.com/scikit-learn-contrib/forest-confidence-interval/pull/132), [#134](https://github.com/scikit-learn-contrib/forest-confidence-interval/pull/134): bias correction, single-sample variance, calibration and array-memory handling; merged.
