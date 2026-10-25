@@ -46,10 +46,16 @@ Each repository identifies its source, implementation, calculation settings and 
 
 | Software | Purpose |
 |---|---|
+| [EvalReceipt](https://github.com/qorud02/evalreceipt/releases/tag/v0.1.0) | Check evaluation receipts against process exit status and actual output files. |
 | [Public Data Sentinel](https://github.com/qorud02/public-data-sentinel) | Validate CSV, TSV and JSON against explicit data contracts. |
 | [JUnit Evidence Gate](https://github.com/qorud02/junit-evidence-gate) | Compare test-report totals with actual testcase records and execution requirements. |
 | [JSON Repr Probe](https://github.com/qorud02/json-repr-probe) | Check whether equivalent JSON representations produce equivalent CLI results. |
 | [F&B Margin Kit](https://github.com/qorud02/fnb-margin-kit) | Calculate menu contribution, ingredient quantities and procurement requirements. |
+
+## Public writing and interviews
+
+- [Who Owns The Next Action After an AI Reply](https://www.hospemag.me/cms/who-owns-next-action-after-ai-reply) — article by Kyunghan Bae, Hospemag, 6 October 2026.
+- [StartupValley interview](https://startupvalley.news/de/unicup-company-ki-cafe/) — founder interview, 7 October 2026.
 
 ## Peer review and research participation
 
