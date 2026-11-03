@@ -29,7 +29,7 @@ My research combines foodservice operations with open data, statistical simulati
 
 ## Selected projects / 주요 프로젝트
 
-- [F&B Menu Margin Kit](https://github.com/qorud02/fnb-margin-kit): menu contribution and sales-mix analysis with Korean CSV, VAT and delivery-platform costs. [Release v0.6.0](https://github.com/qorud02/fnb-margin-kit/releases/tag/v0.6.0)
+- [F&B Menu Margin Kit](https://github.com/qorud02/fnb-margin-kit): menu contribution and sales-mix analysis with Korean CSV, VAT and delivery-platform costs. [Release v0.7.0](https://github.com/qorud02/fnb-margin-kit/releases/tag/v0.7.0)
 - [JSON Repr Probe](https://github.com/qorud02/json-repr-probe): detect JSON/CLI inconsistencies caused by ordering, formatting and Unicode. [Examples](https://github.com/qorud02/json-repr-probe/tree/main/examples)
 - [JUnit Evidence Gate](https://github.com/qorud02/junit-evidence-gate): check test counts, duplicate identities and skip budgets before accepting CI reports.
 - [Public Data Sentinel](https://github.com/qorud02/public-data-sentinel): existing offline CSV/TSV/JSON validation tools and documentation.
