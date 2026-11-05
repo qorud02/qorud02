@@ -25,7 +25,10 @@ My research combines foodservice operations with open data, statistical simulati
 | [Shared-ingredient cafe replenishment](https://github.com/qorud02/cafe-replenishment-simulation) · [Preprint](https://doi.org/10.5281/zenodo.23298824) | Generated-demand experiments comparing three replenishment policies across 54 settings, with separate calibration and evaluation runs. |
 | [Robert's truncated-normal algorithms](https://github.com/qorud02/robert1995-truncated-normal-replication) | Independent calculations of 27 printed acceptance probabilities, an algorithm-switching boundary, and Monte Carlo checks. |
 
-**학술 심사 · Peer review** — Completed one manuscript review for NHI Hospitality International Journal, October 2026.
+**학술 심사 · Peer review**
+
+- **JAFSCD 심사위원 · Peer Reviewer, Journal of Agriculture, Food Systems, and Community Development (JAFSCD)** — reviewer account activated by the journal editor, November 5, 2026; no manuscript assigned or reviewed yet. [Journal](https://www.foodsystemsjournal.org/)
+- **NHI Hospitality International Journal** — completed one manuscript peer review, October 2026.
 
 **저서 · Book** — *AI 프랜차이즈 혁명: 기술을 통해 경영을 바꾸다* (퍼플, 2025). [ISBN 9788924174588](https://www.kobic.net/book/bookInfo/view.do?isbn=9788924174588)
 
