@@ -1,5 +1,7 @@
 # Kyunghan Bae · 배경한
 
+[![GitHub Sponsors로 오픈소스 후원](https://img.shields.io/badge/GitHub_Sponsors-Support_my_work-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/qorud02)
+
 I run F&B brands at [UNICUP COMPANY](https://www.unicupcompany.com), build practical AI and Python tools, and work on reproducible research and open-source fixes.
 
 F&B 브랜드 운영을 바탕으로 기업·기관 협업, 업무용 AI 도구와 활용 교육, 재현 가능한 데이터 분석을 합니다. 한국어·영어로 질문과 제안을 받습니다.
