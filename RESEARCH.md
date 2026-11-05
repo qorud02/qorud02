@@ -22,6 +22,7 @@ The research examines prior restaurant inspection violations and later citations
 |---|---|---|
 | **An independent replication of bootstrap confidence-interval calibration for small samples** | Bae, K. (2026). Zenodo preprint. | [DOI](https://doi.org/10.5281/zenodo.23298767) · [Code and results](https://github.com/qorud02/bootstrap-ci-replication) |
 | **Pack sizes and expiry information in shared ingredient cafe replenishment** | Bae, K. (2026). Zenodo preprint. | [DOI](https://doi.org/10.5281/zenodo.23298824) · [Code and results](https://github.com/qorud02/cafe-replenishment-simulation) |
+| **Auditing Bid Based Collusion Signals Against Executed Trades** | Bae, K. (2026). Public research report, AI Collusion Research Sprint. | [Report and code](https://github.com/qorud02/qorud02/tree/main/studies/collusion-settlement-audit) |
 | **[Re] Acceptance probabilities in Robert's truncated-normal simulation algorithms** | Bae, K. (12 October 2026). Public research report. | [Manuscript](https://github.com/qorud02/robert1995-truncated-normal-replication/blob/main/manuscript.md) · [PDF](https://github.com/qorud02/robert1995-truncated-normal-replication/blob/main/article.pdf) · [Code and results](https://github.com/qorud02/robert1995-truncated-normal-replication) |
 
 ### Reproducibility examples
@@ -61,7 +62,10 @@ Each repository identifies its source, implementation, calculation settings and 
 
 - **NHI Hospitality International Journal:** completed one manuscript review and submitted the review report, 19 October 2026.
 - **Journal of Open Source Software:** registered a volunteer reviewer profile, 26 October 2026. Review interests: Python data tools, input validation, tests and reproducibility.
-- **Apart Research:** registered for the AI Collusion Research Sprint on 8 October 2026 and the Swarm Alignment Hackathon on 26 October 2026. The Swarm event runs 6–8 November 2026.
+- **Apart Research:** publicly released the AI Collusion Research Sprint audit project in October 2026; registered for the Swarm Alignment Hackathon on 26 October 2026. The Swarm event runs 6–8 November 2026.
+- **ReScience C:** submitted one public computational-reproducibility review; author revisions received, November 2026. [Review report](https://github.com/ReScience/submissions/issues/142#issuecomment-6623986639).
+- **JAFSCD:** activated as a reviewer on 5 November 2026; awaiting manuscript assignments.
+- **NASA OSDR:** analysis-working-group community participation and public SPLASH data-validation code contribution.
 
 ## Selected open-source contributions
 
@@ -76,4 +80,4 @@ Each repository identifies its source, implementation, calculation settings and 
 
 My working language is Korean; I use translation support for written English.
 
-Updated 26 October 2026.
+Updated 5 November 2026.
