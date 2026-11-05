@@ -2,7 +2,7 @@
 
 배경한 · Kyunghan Bae  
 주식회사 유니컵컴퍼니 대표이사 · F&B 운영자 · 소프트웨어 개발자  
-2026.10.26 기준
+2026.11.05 기준
 
 외식 사업을 운영하며 업무용 AI·소프트웨어를 기획하고 개발합니다. 현장 데이터 검증과 원가·발주 계산 도구를 공개하고, 제안서 평가와 국내외 심사·자문, 학술논문 심사 활동을 이어가고 있습니다.
 
@@ -19,16 +19,19 @@
 |---|---|---|
 | 2025.08~현재 | 주식회사 유니컵컴퍼니 | 대표이사 · AI·소프트웨어 기획·개발, 기관·기업 협업, F&B 사업·브랜드 운영 |
 | 2024.07~현재 | 유니컵커피 | 운영자 · 매장·메뉴·고객서비스·공급업체 관리 |
-| 2023.05~2024.03 | PLUS82 | 가맹점주 · 프랜차이즈 매장 운영 |
 
 매장·브랜드 운영과 로스팅·생산·도매·납품 경험을 바탕으로 외식 사업과 업무 도구를 함께 개발하고 있습니다.
 
 ## 평가·심사·자문
 
+- ReScience C 논문 심사 | 2026.11 · 계산 재현성 심사보고서 1건 제출, 저자 수정 답변 수령
+  https://github.com/ReScience/submissions/issues/142#issuecomment-6623986639
+- Journal of Agriculture, Food Systems, and Community Development (JAFSCD) 심사자 | 2026.11.05 활성화 확인
+
 - (재)한국정신문화재단 「테이스티 오브 조선 운영 용역」 제안서 평가위원 | 2026.10.21
 - NHI Hospitality International Journal 논문 심사위원 | 2026.10.19 · 논문 1건 심사 및 심사의견 제출
 - 한국인터넷전문가협회 i-AWARDS KOREA 평가위원 | 2026
-- Unfunded List 평가위원 | 2026.10.06 · 비영리 프로젝트 제안서 4건 평가
+- Unfunded List 평가위원 | 2026.10 · 비영리 프로젝트 제안서 5건 평가 완료
 - Business Intelligence Group 국제 심사위원 | 2026.10
 - 대통령 직속 민주평화통일자문회의 제22기 자문위원
 - Journal of Open Source Software(JOSS) 자원 심사자 프로필 등록 | 2026.10.26 · Python 데이터 검증, 재현성, CLI, 테스트·CI 분야
@@ -84,7 +87,7 @@
 
 ### 연구 프로그램 등록
 
-- Apart Research AI Collusion Research Sprint 참가 등록 | 2026.10.08
+- Apart Research AI Collusion Research Sprint 연구 프로젝트 수행 | 2026.10.26 · Auditing Bid Based Collusion Signals Against Executed Trades 보고서·감사 도구 공개
 - Apart Research Swarm Alignment Hackathon 참가 등록 | 2026.10.26 · 행사 2026.11.06~11.08
 
 ## 공개 소프트웨어·개발
@@ -148,13 +151,22 @@
 - 부산기계공업고등학교 금형설계과 졸업 | 2014.02.12
 - 한국방송통신대학교 통계학과 중퇴
 
-## 국가기술자격
+## 자격·면허·어학
+
+- 제한무선통신사 | 한국방송통신전파진흥원(KCA) | 2026.11.01
+- 유럽 드론 조종면허(A1/A3) | 룩셈부르크 민간항공국(DAC) | 유효기간 2031.10.27까지
+- Six Sigma Yellow Belt | 6sigmastudy / VMEdu | 2026.10.31
+- EF SET 영어 73/100점 · CEFR C2 | 읽기 68점·듣기 78점 | 2026.10.27
+
+### 국가기술자격
 
 - 금형기능사 | 한국산업인력공단 | 2013.07.19
 - 컴퓨터응용선반기능사 | 한국산업인력공단 | 2013.06.28
 - 컴퓨터응용밀링기능사 | 한국산업인력공단 | 2012.04.27
 
 ## 교육·수료
+
+- Anthropic Education | Introduction to agent skills 과정 수료 | 2026.10.31
 
 - Google Cloud Training·Coursera | Google Cloud Generative AI Leader 전문과정 수료 | 2025.09.21
 - University of London·London Business School·Coursera | Brand Management: Aligning Business, Brand and Behaviour 과정 수료 | 2025.09.21
@@ -169,17 +181,3 @@
 - 업무용 AI 도구와 소상공인 AI 교육
 
 주 업무 언어는 한국어이며, 영문 서면에는 번역·언어 지원을 활용합니다.
-{
-  type: 'value',
-  value: 'Browser tab: 1, Title: "‪Kyunghan Bae‬ - ‪Google 학술 검색‬", URL: "https://scholar.google.com/citations?hl=ko&user=VQ2dCYwAAAAJ&view_op=list_works&gmla=AERr9JEqAzyOZXd3Ox4CpwMeDlCfqBRhuYSrmZ3Kw90XM1D5hd_5FTotDFas-lX-gYo_7pmJJdO-aVs1ri4ycJGiaB9JA0Hz0CA5RDM_IOWD2C3TdTBXy7KL4AdOZ9o9_HBTERxZJRF0D_Xgtp-T3Y2PS4ab7GpLwU_VnUpKpuvoJMhx7u2CCVD9-wtD7rRATtw0IW9C2gGISez6FEY&iaan=%EB%B0%B0%EA%B2%BD%ED%95%9C".\n' +
-    'The following is a diff from the previous accessibility tree with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.\n' +
-    'Removed element IDs: 9-11, 60\n' +
-    '+\t\t\t\t\t\t\t\t84 container gsc_dd_add-r\n' +
-    '+\t\t\t\t\t\t\t\t\t85 pop up button gsc_dd_add-b\n' +
-    '+\t\t\t\t\t\t\t\t\t86 menu gsc_dd_add-d\n' +
-    '+\t\t\t\t\t\t\t\t\t\t87 문서 그룹 추가\n' +
-    '+\t\t\t\t\t\t\t\t\t\t88 문서 추가\n' +
-    '+\t\t\t\t\t\t\t\t\t\t89 학술자료 직접 추가\n' +
-    '+\t\t\t\t\t\t\t\t\t\t90 자료 업데이트 설정\n' +
-    'The focused UI element is 86 menu gsc_dd_add-d'
-}
