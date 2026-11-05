@@ -10,6 +10,13 @@ Contact: [ceo@unicupcompany.com](mailto:ceo@unicupcompany.com)
 
 [Career & public work / 경력과 활동](https://profile.unicupcompany.com/) · [AI training for organizations / 기관·기업 AI 교육](https://education.unicupcompany.com/)
 
+## Professional activities / 전문 활동
+
+- ReScience C: submitted one public manuscript review of computational reproducibility; author revisions received, November 2026. [Review report](https://github.com/ReScience/submissions/issues/142#issuecomment-6623986639)
+- JAFSCD: activated as a reviewer, November 2026.
+- Unfunded List: completed five nonprofit proposal evaluations, October 2026.
+- [Full career, qualifications and training / 전체 이력·자격](CAREER.md)
+
 ## Research and scholarly work / 연구·학술 활동
 
 [ORCID: 0009-0009-7311-4651](https://orcid.org/0009-0009-7311-4651)
