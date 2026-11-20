@@ -10,7 +10,7 @@ Contact: [ceo@unicupcompany.com](mailto:ceo@unicupcompany.com)
 
 [Career & public work / 경력과 활동](https://profile.unicupcompany.com/) · [AI training for organizations / 기관·기업 AI 교육](https://education.unicupcompany.com/)
 
-Elsewhere / 채널: [Official profile](https://profile.unicupcompany.com/) · [LinkedIn](https://www.linkedin.com/in/kyunghan-bae/) · [ORCID](https://orcid.org/0009-0009-7311-4651) · [Instagram](https://www.instagram.com/kyunghan_tech_bae/) · [Threads](https://www.threads.com/@kyunghan_tech_bae) · [YouTube](https://www.youtube.com/@jinjangsad) · [Brunch](https://brunch.co.kr/@qorud01)
+Elsewhere / 채널: [Official profile](https://profile.unicupcompany.com/) · [LinkedIn](https://www.linkedin.com/in/kyunghan-bae/) · [ORCID](https://orcid.org/0009-0009-7311-4651) · [Instagram](https://www.instagram.com/kyunghan_tech_bae/) · [Threads](https://www.threads.com/@kyunghan_tech_bae) · [YouTube](https://www.youtube.com/@kyunghan_unicup) · [Brunch](https://brunch.co.kr/@qorud01)
 
 ## Professional activities / 전문 활동
 
