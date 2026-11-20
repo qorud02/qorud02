@@ -1,4 +1,4 @@
-# Kyunghan Bae · 배경한
+# 배경한 | Kyunghan Bae
 
 [![GitHub Sponsors로 오픈소스 후원](https://img.shields.io/badge/GitHub_Sponsors-Support_my_work-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/qorud02)
 
@@ -9,6 +9,8 @@ F&B 브랜드 운영을 바탕으로 기업·기관 협업, 업무용 AI 도구�
 Contact: [ceo@unicupcompany.com](mailto:ceo@unicupcompany.com)
 
 [Career & public work / 경력과 활동](https://profile.unicupcompany.com/) · [AI training for organizations / 기관·기업 AI 교육](https://education.unicupcompany.com/)
+
+Elsewhere / 채널: [Official profile](https://profile.unicupcompany.com/) · [LinkedIn](https://www.linkedin.com/in/kyunghan-bae/) · [ORCID](https://orcid.org/0009-0009-7311-4651) · [Instagram](https://www.instagram.com/kyunghan_tech_bae/) · [Threads](https://www.threads.com/@kyunghan_tech_bae) · [YouTube](https://www.youtube.com/@jinjangsad) · [Brunch](https://brunch.co.kr/@qorud01)
 
 ## Professional activities / 전문 활동
 
